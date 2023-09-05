@@ -2,7 +2,7 @@
   {
     "name": "Afghanistan",
     "locale": "ps_AF",
-    "language": "en",
+    "language": "af",
     "timezones": [
       {"name": "Asia/Kabul"}
     ]
@@ -10,7 +10,7 @@
   {
     "name": "Algeria",
     "locale": "ar_DZ",
-    "language": "en",
+    "language": "dz",
     "timezones": [
       {"name": "Africa/Algiers"}
     ]
@@ -18,7 +18,7 @@
   {
     "name": "Armenia",
     "locale": "hy_AM",
-    "language": "en",
+    "language": "am",
     "timezones": [
       {"name": "Asia/Yerevan"}
     ]
@@ -26,7 +26,7 @@
   {
     "name": "Argentina",
     "locale": "es_AR",
-    "language": "en",
+    "language": "ar",
     "timezones": [
       {"name": "America/Argentina/Buenos_Aires"},
       {"name": "America/Argentina/Catamarca"},
@@ -65,7 +65,7 @@
   {
     "name": "Albania",
     "locale": "sq_AL",
-    "language": "en",
+    "language": "al",
     "timezones": [
       {"name": "Europe/Tirane"}
     ]
@@ -73,7 +73,7 @@
   {
     "name": "Austria",
     "locale": "de_AT",
-    "language": "en",
+    "language": "de",
     "timezones": [
       {"name": "Europe/Vienna"}
     ]
@@ -81,7 +81,7 @@
   {
     "name": "Azerbaijan",
     "locale": "az",
-    "language": "tr",
+    "language": "az",
     "timezones": [
       {"name": "Asia/Baku"}
     ]
@@ -89,7 +89,7 @@
   {
     "name": "Bosnia and Herzegovina",
     "locale": "bs_BA",
-    "language": "en",
+    "language": "ba",
     "timezones": [
       {"name": "Europe/Belgrade"}
     ]
@@ -97,7 +97,7 @@
   {
     "name": "Bangladesh",
     "locale": "bn_BD",
-    "language": "en",
+    "language": "bd",
     "timezones": [
       {"name": "Asia/Dhaka"}
     ]
@@ -105,7 +105,7 @@
   {
     "name": "Belgium",
     "locale": "en_BE",
-    "language": "en",
+    "language": "be",
     "timezones": [
       {"name": "Europe/Brussels"}
     ]
@@ -113,7 +113,7 @@
   {
     "name": "Bulgaria",
     "locale": "bg_BG",
-    "language": "en",
+    "language": "bg",
     "timezones": [
       {"name": "Europe/Sofia"}
     ]
@@ -121,7 +121,7 @@
   {
     "name": "Bahrain",
     "locale": "ar_BH",
-    "language": "en",
+    "language": "bh",
     "timezones": [
       {"name": "Asia/Bahrain"}
     ]
@@ -129,7 +129,7 @@
   {
     "name": "Brazil",
     "locale": "pt_BR",
-    "language": "en",
+    "language": "br",
     "timezones": [
       {"name": "America/Araguaina"},
       {"name": "America/Bahia"},
@@ -152,7 +152,7 @@
   {
     "name": "Burkina Faso",
     "locale": "fr_BF",
-    "language": "en",
+    "language": "bf",
     "timezones": [
       {"name": "Africa/Abidjan"},
       {"name": "Africa/Ouagadougou"}
@@ -161,7 +161,7 @@
   {
     "name": "Burundi",
     "locale": "fr_BI",
-    "language": "en",
+    "language": "bi",
     "timezones": [
       {"name": "Africa/Bujumbura"},
       {"name": "Africa/Maputo"}
@@ -170,7 +170,7 @@
   {
     "name": "Benin",
     "locale": "fr_BJ",
-    "language": "en",
+    "language": "bj",
     "timezones": [
       {"name": "Africa/Lagos"},
       {"name": "Africa/Porto-Novo"}
@@ -179,7 +179,7 @@
   {
     "name": "Brunei",
     "locale": "ms_BN",
-    "language": "en",
+    "language": "bn",
     "timezones": [
       {"name": "Asia/Brunei"},
       {"name": "Asia/Kuching"}
@@ -188,7 +188,7 @@
   {
     "name": "Bolivia",
     "locale": "es_BO",
-    "language": "en",
+    "language": "bo",
     "timezones": [
       {"name": "America/La_Paz"}
     ]
@@ -196,7 +196,7 @@
   {
     "name": "Belarus",
     "locale": "be_BY",
-    "language": "en",
+    "language": "by",
     "timezones": [
       {"name": "Europe/Minsk"}
     ]
@@ -239,7 +239,7 @@
   {
     "name": "Switzerland",
     "locale": "de_CH",
-    "language": "en",
+    "language": "de",
     "timezones": [
       {"name": "Europe/Zurich"}
     ]
@@ -247,7 +247,7 @@
   {
     "name": "Croatia",
     "locale": "hr_HR",
-    "language": "en",
+    "language": "hr",
     "timezones": [
       {"name": "Europe/Belgrade"},
       {"name": "Europe/Zagreb"}
@@ -256,7 +256,7 @@
   {
     "name": "Central African Republic",
     "locale": "fr_CF",
-    "language": "en",
+    "language": "cf",
     "timezones": [
       {"name": "Africa/Bangui"},
       {"name": "Africa/Lagos"}
@@ -265,7 +265,7 @@
   {
     "name": "China",
     "locale": "zh",
-    "language": "en",
+    "language": "zh",
     "timezones": [
       {"name": "Asia/Shanghai"},
       {"name": "Asia/Urumqi"}
@@ -274,7 +274,7 @@
   {
     "name": "Czech (Czech Republic)",
     "locale": "cs_CZ",
-    "language": "en",
+    "language": "cz",
     "timezones": [
       {"name": "Europe/Prague"}
     ]
@@ -282,7 +282,7 @@
   {
     "name": "Chile",
     "locale": "es_CL",
-    "language": "en",
+    "language": "cl",
     "timezones": [
       {"name": "America/Punta_Arenas"},
       {"name": "America/Santiago"},
@@ -292,7 +292,7 @@
   {
     "name": "Cameroon",
     "locale": "fr_CM",
-    "language": "en",
+    "language": "cm",
     "timezones": [
       {"name": "Africa/Douala"},
       {"name": "Africa/Lagos"}
@@ -301,7 +301,7 @@
   {
     "name": "Colombia",
     "locale": "es_CO",
-    "language": "en",
+    "language": "co",
     "timezones": [
       {"name": "America/Bogota"}
     ]
@@ -309,7 +309,7 @@
   {
     "name": "Costa Rica",
     "locale": "es_CR",
-    "language": "en",
+    "language": "cr",
     "timezones": [
       {"name": "America/Costa_Rica"}
     ]
@@ -317,7 +317,7 @@
   {
     "name": "Cuba",
     "locale": "es_CU",
-    "language": "en",
+    "language": "cu",
     "timezones": [
       {"name": "America/Havana"}
     ]
@@ -325,7 +325,7 @@
   {
     "name": "Cambodia",
     "locale": "km_KH",
-    "language": "en",
+    "language": "kh",
     "timezones": [
       {"name": "Asia/Bangkok"},
       {"name": "Asia/Phnom_Penh"}
@@ -334,7 +334,7 @@
   {
     "name": "Democratic Republic of the Congo",
     "locale": "fr_CD",
-    "language": "en",
+    "language": "cd",
     "timezones": [
       {"name": "Africa/Kinshasa"},
       {"name": "Africa/Lagos"},
@@ -345,7 +345,7 @@
   {
     "name": "Republic of the Congo",
     "locale": "fr_CG",
-    "language": "en",
+    "language": "cg",
     "timezones": [
       {"name": "Africa/Brazzaville"},
       {"name": "Africa/Lagos"}
@@ -354,7 +354,7 @@
   {
     "name": "Dominican Republic",
     "locale": "es_DO",
-    "language": "en",
+    "language": "do",
     "timezones": [
       {"name": "America/Santo_Domingo"}
     ]
@@ -362,7 +362,7 @@
   {
     "name": "Germany",
     "locale": "de_DE",
-    "language": "en",
+    "language": "de",
     "timezones": [
       {"name": "Europe/Berlin"},
       {"name": "Europe/Busingen"},
@@ -372,7 +372,7 @@
   {
     "name": "Denmark",
     "locale": "da_DK",
-    "language": "en",
+    "language": "dk",
     "timezones": [
       {"name": "Europe/Berlin"},
       {"name": "Europe/Copenhagen"}
@@ -381,7 +381,7 @@
   {
     "name": "Ecuador",
     "locale": "es_EC",
-    "language": "en",
+    "language": "es",
     "timezones": [
       {"name": "America/Guayaquil"},
       {"name": "Pacific/Galapagos"}
@@ -390,7 +390,7 @@
   {
     "name": "Estonia",
     "locale": "et_EE",
-    "language": "en",
+    "language": "ee",
     "timezones": [
       {"name": "Europe/Tallinn"}
     ]
@@ -398,7 +398,7 @@
   {
     "name": "Egypt",
     "locale": "ar_EG",
-    "language": "en",
+    "language": "eg",
     "timezones": [
       {"name": "Africa/Cairo"}
     ]
@@ -406,7 +406,7 @@
   {
     "name": "Ethiopia",
     "locale": "om_ET",
-    "language": "en",
+    "language": "et",
     "timezones": [
       {"name": "Africa/Addis_Ababa"},
       {"name": "Africa/Nairobi"}
@@ -415,7 +415,7 @@
   {
     "name": "Finland",
     "locale": "fi_FI",
-    "language": "en",
+    "language": "fi",
     "timezones": [
       {"name": "Europe/Helsinki"}
     ]
@@ -423,7 +423,7 @@
   {
     "name": "France",
     "locale": "fr_FR",
-    "language": "en",
+    "language": "fr",
     "timezones": [
       {"name": "Europe/Paris"}
     ]
@@ -431,7 +431,7 @@
   {
     "name": "Spain",
     "locale": "eu_ES",
-    "language": "en",
+    "language": "es",
     "timezones": [
       {"name": "Africa/Ceuta"},
       {"name": "Atlantic/Canary"},
@@ -441,7 +441,7 @@
   {
     "name": "Sudan",
     "locale": "ar_SD",
-    "language": "en",
+    "language": "sd",
     "timezones": [
       {"name": "Africa/Khartoum"}
     ]
@@ -449,7 +449,7 @@
   {
     "name": "Sweden",
     "locale": "sv_SE",
-    "language": "en",
+    "language": "se",
     "timezones": [
       {"name": "Europe/Berlin"},
       {"name": "Europe/Stockholm"}
@@ -458,7 +458,7 @@
   {
     "name": "Singapore",
     "locale": "en_SG",
-    "language": "en",
+    "language": "sg",
     "timezones": [
       {"name": "Asia/Singapore"}
     ]
@@ -466,7 +466,7 @@
   {
     "name": "South Korea",
     "locale": "ko_KR",
-    "language": "en",
+    "language": "kr",
     "timezones": [
       {"name": "Asia/Seoul"}
     ]
@@ -474,7 +474,7 @@
   {
     "name": "Georgia",
     "locale": "ka_GE",
-    "language": "en",
+    "language": "ge",
     "timezones": [
       {"name": "Asia/Tbilisi"}
     ]
@@ -482,7 +482,7 @@
   {
     "name": "Greece",
     "locale": "el_GR",
-    "language": "en",
+    "language": "gr",
     "timezones": [
       {"name": "Europe/Athens"}
     ]
@@ -490,7 +490,7 @@
   {
     "name": "Ghana",
     "locale": "ak_GH",
-    "language": "en",
+    "language": "gh",
     "timezones": [
       {"name": "Africa/Abidjan"},
       {"name": "Africa/Accra"}
@@ -499,7 +499,7 @@
   {
     "name": "Guinea",
     "locale": "fr_GN",
-    "language": "en",
+    "language": "gn",
     "timezones": [
       {"name": "Africa/Abidjan"},
       {"name": "Africa/Conakry"}
@@ -508,7 +508,7 @@
   {
     "name": "Guatemala",
     "locale": "es_GT",
-    "language": "en",
+    "language": "gt",
     "timezones": [
       {"name": "America/Guatemala"}
     ]
@@ -516,7 +516,7 @@
   {
     "name": "Hong Kong",
     "locale": "en_HK",
-    "language": "en",
+    "language": "hk",
     "timezones": [
       {"name": "Asia/Hong_Kong"}
     ]
@@ -524,7 +524,7 @@
   {
     "name": "Honduras",
     "locale": "es_HN",
-    "language": "en",
+    "language": "hn",
     "timezones": [
       {"name": "America/Tegucigalpa"}
     ]
@@ -532,7 +532,7 @@
   {
     "name": "Hungary",
     "locale": "hu_HU",
-    "language": "en",
+    "language": "hu",
     "timezones": [
       {"name": "Europe/Budapest"}
     ]
@@ -540,7 +540,7 @@
   {
     "name": "Iceland",
     "locale": "is_IS",
-    "language": "en",
+    "language": "is",
     "timezones": [
       {"name": "Africa/Abidjan"},
       {"name": "Atlantic/Reykjavik"}
@@ -549,7 +549,7 @@
   {
     "name": "Indonesia",
     "locale": "id_ID",
-    "language": "en",
+    "language": "id",
     "timezones": [
       {"name": "Asia/Jakarta"},
       {"name": "Asia/Jayapura"},
@@ -560,7 +560,7 @@
   {
     "name": "Ireland",
     "locale": "en_IE",
-    "language": "en",
+    "language": "ie",
     "timezones": [
       {"name": "Europe/Dublin"}
     ]
@@ -568,7 +568,7 @@
   {
     "name": "Israel",
     "locale": "en_IL",
-    "language": "en",
+    "language": "il",
     "timezones": [
       {"name": "Asia/Jerusalem"}
     ]
@@ -576,7 +576,7 @@
   {
     "name": "India",
     "locale": "en_IN",
-    "language": "en",
+    "language": "in",
     "timezones": [
       {"name": "Asia/Kolkata"}
     ]
@@ -584,7 +584,7 @@
   {
     "name": "Iraq",
     "locale": "ar_IQ",
-    "language": "en",
+    "language": "iq",
     "timezones": [
       {"name": "Asia/Baghdad"}
     ]
@@ -592,7 +592,7 @@
   {
     "name": "Iran",
     "locale": "fa_IR",
-    "language": "en",
+    "language": "ir",
     "timezones": [
       {"name": "Asia/Tehran"}
     ]
@@ -600,7 +600,7 @@
   {
     "name": "Italy",
     "locale": "it_IT",
-    "language": "en",
+    "language": "it",
     "timezones": [
       {"name": "Europe/Rome"}
     ]
@@ -608,7 +608,7 @@
   {
     "name": "Jordan",
     "locale": "ar_JO",
-    "language": "en",
+    "language": "jo",
     "timezones": [
       {"name": "Asia/Amman"}
     ]
@@ -616,7 +616,7 @@
   {
     "name": "Japan",
     "locale": "ja_JP",
-    "language": "en",
+    "language": "jp",
     "timezones": [
       {"name": "Asia/Tokyo"}
     ]
@@ -624,7 +624,7 @@
   {
     "name": "Kuwait",
     "locale": "ar_KW",
-    "language": "en",
+    "language": "kw",
     "timezones": [
       {"name": "Asia/Kuwait"},
       {"name": "Asia/Riyadh"}
@@ -633,7 +633,7 @@
   {
     "name": "Kenya",
     "locale": "en_KE",
-    "language": "en",
+    "language": "ke",
     "timezones": [
       {"name": "Africa/Nairobi"}
     ]
@@ -641,7 +641,7 @@
   {
     "name": "Kyrgyzstan",
     "locale": "ky_KG",
-    "language": "en",
+    "language": "kg",
     "timezones": [
       {"name": "Asia/Bishkek"}
     ]
@@ -649,7 +649,7 @@
   {
     "name": "Kazakhstan",
     "locale": "kk_Cyrl_KZ",
-    "language": "en",
+    "language": "kz",
     "timezones": [
       {"name": "Asia/Almaty"},
       {"name": "Asia/Aqtau"},
@@ -663,7 +663,7 @@
   {
     "name": "Laos",
     "locale": "lo_LA",
-    "language": "en",
+    "language": "la",
     "timezones": [
       {"name": "Asia/Bangkok"},
       {"name": "Asia/Vientiane"}
@@ -672,7 +672,7 @@
   {
     "name": "Lebanon",
     "locale": "ar_LB",
-    "language": "en",
+    "language": "lb",
     "timezones": [
       {"name": "Asia/Beirut"}
     ]
@@ -680,7 +680,7 @@
   {
     "name": "Lithuania",
     "locale": "lt_LT",
-    "language": "en",
+    "language": "lt",
     "timezones": [
       {"name": "Europe/Vilnius"}
     ]
@@ -688,7 +688,7 @@
   {
     "name": "Luxembourg",
     "locale": "de_LU",
-    "language": "en",
+    "language": "lu",
     "timezones": [
       {"name": "Europe/Brussels"},
       {"name": "Europe/Luxembourg"}
@@ -697,7 +697,7 @@
   {
     "name": "Libya",
     "locale": "ar_LY",
-    "language": "en",
+    "language": "ly",
     "timezones": [
       {"name": "Africa/Tripoli"}
     ]
@@ -705,7 +705,7 @@
   {
     "name": "Sri Lanka",
     "locale": "si_LK",
-    "language": "en",
+    "language": "lk",
     "timezones": [
       {"name": "Asia/Colombo"}
     ]
@@ -713,7 +713,7 @@
   {
     "name": "South Africa",
     "locale": "en_ZA",
-    "language": "en",
+    "language": "za",
     "timezones": [
       {"name": "Africa/Johannesburg"}
     ]
@@ -721,7 +721,7 @@
   {
     "name": "Morocco",
     "locale": "ar_MA",
-    "language": "en",
+    "language": "ma",
     "timezones": [
       {"name": "Africa/Casablanca"}
     ]
@@ -729,7 +729,7 @@
   {
     "name": "Moldova",
     "locale": "ro_MD",
-    "language": "en",
+    "language": "md",
     "timezones": [
       {"name": "Europe/Chisinau"}
     ]
@@ -737,7 +737,7 @@
   {
     "name": "Montenegro",
     "locale": "sr_Latn_ME",
-    "language": "en",
+    "language": "me",
     "timezones": [
       {"name": "Europe/Belgrade"},
       {"name": "Europe/Podgorica"}
@@ -746,7 +746,7 @@
   {
     "name": "Myanmar",
     "locale": "my_MM",
-    "language": "en",
+    "language": "me",
     "timezones": [
       {"name": "Asia/Rangoon"},
       {"name": "Asia/Yangon"}
@@ -755,7 +755,7 @@
   {
     "name": "Mongolia",
     "locale": "mn_MN",
-    "language": "en",
+    "language": "mn",
     "timezones": [
       {"name": "Asia/Choibalsan"},
       {"name": "Asia/Hovd"},
@@ -765,7 +765,7 @@
   {
     "name": "Malta",
     "locale": "en_MT",
-    "language": "en",
+    "language": "mt",
     "timezones": [
       {"name": "Europe/Malta"}
     ]
@@ -773,7 +773,7 @@
   {
     "name": "Malaysia",
     "locale": "ms_MY",
-    "language": "en",
+    "language": "my",
     "timezones": [
       {"name": "Asia/Kuala_Lumpur"},
       {"name": "Asia/Kuching"},
@@ -783,7 +783,7 @@
   {
     "name": "Maldives",
     "locale": "dv_MV",
-    "language": "en",
+    "language": "mv",
     "timezones": [
       {"name": "Indian/Maldives"}
     ]
@@ -791,7 +791,7 @@
   {
     "name": "Mexico",
     "locale": "es_MX",
-    "language": "en",
+    "language": "mx",
     "timezones": [
       {"name": "America/Bahia_Banderas"},
       {"name": "America/Cancun"},
@@ -810,7 +810,7 @@
   {
     "name": "Netherlands",
     "locale": "nl_NL",
-    "language": "en",
+    "language": "nl",
     "timezones": [
       {"name": "Europe/Amsterdam"},
       {"name": "Europe/Brussels"}
@@ -819,7 +819,7 @@
   {
     "name": "New Zealand",
     "locale": "en_NZ",
-    "language": "en",
+    "language": "nz",
     "timezones": [
       {"name": "Pacific/Auckland"},
       {"name": "Pacific/Chatham"}
@@ -828,7 +828,7 @@
   {
     "name": "Niger",
     "locale": "fr_NE",
-    "language": "en",
+    "language": "ne",
     "timezones": [
       {"name": "Africa/Lagos"},
       {"name": "Africa/Niamey"}
@@ -837,7 +837,7 @@
   {
     "name": "Nigeria",
     "locale": "ig_NG",
-    "language": "en",
+    "language": "ng",
     "timezones": [
       {"name": "Africa/Lagos"}
     ]
@@ -845,7 +845,7 @@
   {
     "name": "Norway",
     "locale": "nn_NO",
-    "language": "en",
+    "language": "no",
     "timezones": [
       {"name": "Europe/Berlin"},
       {"name": "Europe/Oslo"}
@@ -854,7 +854,7 @@
   {
     "name": "Nepal",
     "locale": "ne_NP",
-    "language": "en",
+    "language": "np",
     "timezones": [
       {"name": "Asia/Kathmandu"}
     ]
@@ -862,7 +862,7 @@
   {
     "name": "Oman",
     "locale": "ar_OM",
-    "language": "en",
+    "language": "om",
     "timezones": [
       {"name": "Asia/Dubai"},
       {"name": "Asia/Muscat"}
@@ -871,7 +871,7 @@
   {
     "name": "Peru",
     "locale": "es_PE",
-    "language": "en",
+    "language": "pe",
     "timezones": [
       {"name": "America/Lima"}
     ]
@@ -879,7 +879,7 @@
   {
     "name": "Pakistan",
     "locale": "en_PK",
-    "language": "en",
+    "language": "pk",
     "timezones": [
       {"name": "Asia/Karachi"}
     ]
@@ -887,7 +887,7 @@
   {
     "name": "Poland",
     "locale": "pl_PL",
-    "language": "en",
+    "language": "pl",
     "timezones": [
       {"name": "Europe/Warsaw"}
     ]
@@ -895,7 +895,7 @@
   {
     "name": "Portugal",
     "locale": "pt_PT",
-    "language": "en",
+    "language": "pt",
     "timezones": [
       {"name": "Atlantic/Azores"},
       {"name": "Atlantic/Madeira"},
@@ -905,7 +905,7 @@
   {
     "name": "Paraguay",
     "locale": "es_PY",
-    "language": "en",
+    "language": "py",
     "timezones": [
       {"name": "America/Asuncion"}
     ]
@@ -913,7 +913,7 @@
   {
     "name": "Qatar",
     "locale": "ar_QA",
-    "language": "en",
+    "language": "qa",
     "timezones": [
       {"name": "Asia/Qatar"}
     ]
@@ -921,7 +921,7 @@
   {
     "name": "Romania",
     "locale": "ro_RO",
-    "language": "en",
+    "language": "ro",
     "timezones": [
       {"name": "Europe/Bucharest"}
     ]
@@ -929,7 +929,7 @@
   {
     "name": "Slovenia",
     "locale": "sl_SI",
-    "language": "en",
+    "language": "si",
     "timezones": [
       {"name": "Europe/Belgrade"},
       {"name": "Europe/Ljubljana"}
@@ -938,7 +938,7 @@
   {
     "name": "Slovakia",
     "locale": "sk_SK",
-    "language": "en",
+    "language": "sk",
     "timezones": [
       {"name": "Europe/Bratislava"},
       {"name": "Europe/Prague"}
@@ -947,7 +947,7 @@
   {
     "name": "Serbia",
     "locale": "sr_Latn_RS",
-    "language": "en",
+    "language": "sr",
     "timezones": [
       {"name": "Europe/Belgrade"}
     ]
@@ -955,7 +955,7 @@
   {
     "name": "Saudi Arabia",
     "locale": "ar_SA",
-    "language": "en",
+    "language": "sa",
     "timezones": [
       {"name": "Asia/Riyadh"}
     ]
@@ -963,7 +963,7 @@
   {
     "name": "Russia",
     "locale": "ru_RU",
-    "language": "en",
+    "language": "ru",
     "timezones": [
       {"name": "Asia/Anadyr"},
       {"name": "Asia/Barnaul"},
@@ -994,7 +994,7 @@
       {"name": "Europe/Volgograd"}
     ]
   },
-   {
+  {
     "name": "Türkiye",
     "locale": "tr_TR",
     "language": "tr",
@@ -1005,7 +1005,7 @@
   {
     "name": "Thailand",
     "locale": "th_TH",
-    "language": "en",
+    "language": "th",
     "timezones": [
       {"name": "Asia/Bangkok"}
     ]
@@ -1013,7 +1013,7 @@
   {
     "name": "Taiwan",
     "locale": "zh_Hant_TW",
-    "language": "en",
+    "language": "tw",
     "timezones": [
       {"name": "Asia/Taipei"}
     ]
@@ -1021,7 +1021,7 @@
   {
     "name": "Tajikistan",
     "locale": "tg_TJ",
-    "language": "en",
+    "language": "tj",
     "timezones": [
       {"name": "Asia/Dushanbe"}
     ]
@@ -1029,7 +1029,7 @@
   {
     "name": "Turkmenistan",
     "locale": "tk_TM",
-    "language": "en",
+    "language": "tm",
     "timezones": [
       {"name": "Asia/Ashgabat"}
     ]
@@ -1037,7 +1037,7 @@
   {
     "name": "Tunisia",
     "locale": "ar_TN",
-    "language": "en",
+    "language": "tn",
     "timezones": [
       {"name": "Africa/Tunis"}
     ]
@@ -1080,7 +1080,7 @@
   },
   {
     "name": "United Kingdom",
-    "locale": "en_GB",
+    "locale": "en_UK",
     "language": "en",
     "timezones": [
       {"name": "Europe/London"}
@@ -1089,7 +1089,7 @@
   {
     "name": "United Arab Emirates",
     "locale": "ar_AE",
-    "language": "en",
+    "language": "ae",
     "timezones": [
       {"name": "Asia/Dubai"}
     ]
@@ -1097,7 +1097,7 @@
   {
     "name": "Ukraine",
     "locale": "uk_UA",
-    "language": "en",
+    "language": "ua",
     "timezones": [
       {"name": "Europe/Kyiv"},
       {"name": "Europe/Simferopol"}
@@ -1106,7 +1106,7 @@
   {
     "name": "Uganda",
     "locale": "cgg_UG",
-    "language": "en",
+    "language": "ug",
     "timezones": [
       {"name": "Africa/Kampala"},
       {"name": "Africa/Nairobi"}
@@ -1115,7 +1115,7 @@
   {
     "name": "Uzbekistan",
     "locale": "uz_Latn_UZ",
-    "language": "en",
+    "language": "uz",
     "timezones": [
       {"name": "Asia/Samarkand"},
       {"name": "Asia/Tashkent"}
@@ -1124,7 +1124,7 @@
   {
     "name": "Vietnam",
     "locale": "vi_VN",
-    "language": "en",
+    "language": "vn",
     "timezones": [
       {"name": "Asia/Bangkok"},
       {"name": "Asia/Ho_Chi_Minh"}
