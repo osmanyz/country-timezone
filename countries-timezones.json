@@ -3,6 +3,8 @@
     "name": "Afghanistan",
     "locale": "ps_AF",
     "language": "af",
+    "currency": "AFN",
+    "phoneCode": "+93",
     "timezones": [
       {"name": "Asia/Kabul"}
     ]
@@ -11,6 +13,8 @@
     "name": "Algeria",
     "locale": "ar_DZ",
     "language": "dz",
+    "currency": "DZD",
+    "phoneCode": "+012",
     "timezones": [
       {"name": "Africa/Algiers"}
     ]
@@ -19,6 +23,8 @@
     "name": "Armenia",
     "locale": "hy_AM",
     "language": "am",
+    "currency": "AMD",
+    "phoneCode": "+374",
     "timezones": [
       {"name": "Asia/Yerevan"}
     ]
@@ -27,6 +33,8 @@
     "name": "Argentina",
     "locale": "es_AR",
     "language": "ar",
+    "currency": "ARS",
+    "phoneCode": "+54",
     "timezones": [
       {"name": "America/Argentina/Buenos_Aires"},
       {"name": "America/Argentina/Catamarca"},
@@ -46,6 +54,8 @@
     "name": "Australia",
     "locale": "en_AU",
     "language": "en",
+    "currency": "AUD",
+    "phoneCode": "+61",
     "timezones": [
       {"name": "Antarctica/Macquarie"},
       {"name": "Australia/Adelaide"},
@@ -66,6 +76,8 @@
     "name": "Albania",
     "locale": "sq_AL",
     "language": "al",
+    "currency": "ALL",
+    "phoneCode": "+355",
     "timezones": [
       {"name": "Europe/Tirane"}
     ]
@@ -74,6 +86,8 @@
     "name": "Austria",
     "locale": "de_AT",
     "language": "de",
+    "currency": "EUR",
+    "phoneCode": "+43",
     "timezones": [
       {"name": "Europe/Vienna"}
     ]
@@ -82,6 +96,8 @@
     "name": "Azerbaijan",
     "locale": "az",
     "language": "az",
+    "currency": "AZN",
+    "phoneCode": "+994",
     "timezones": [
       {"name": "Asia/Baku"}
     ]
@@ -90,6 +106,8 @@
     "name": "Bosnia and Herzegovina",
     "locale": "bs_BA",
     "language": "ba",
+    "currency": "BAM",
+    "phoneCode": "+387",
     "timezones": [
       {"name": "Europe/Belgrade"}
     ]
@@ -98,6 +116,8 @@
     "name": "Bangladesh",
     "locale": "bn_BD",
     "language": "bd",
+    "currency": "BDT",
+    "phoneCode": "+880",
     "timezones": [
       {"name": "Asia/Dhaka"}
     ]
@@ -106,6 +126,8 @@
     "name": "Belgium",
     "locale": "en_BE",
     "language": "be",
+    "currency": "EUR",
+    "phoneCode": "+32",
     "timezones": [
       {"name": "Europe/Brussels"}
     ]
@@ -114,6 +136,8 @@
     "name": "Bulgaria",
     "locale": "bg_BG",
     "language": "bg",
+    "currency": "BGN",
+    "phoneCode": "+359",
     "timezones": [
       {"name": "Europe/Sofia"}
     ]
@@ -122,6 +146,8 @@
     "name": "Bahrain",
     "locale": "ar_BH",
     "language": "bh",
+    "currency": "BHD",
+    "phoneCode": "+973",
     "timezones": [
       {"name": "Asia/Bahrain"}
     ]
@@ -130,6 +156,8 @@
     "name": "Brazil",
     "locale": "pt_BR",
     "language": "br",
+    "currency": "BRL",
+    "phoneCode": "+55",
     "timezones": [
       {"name": "America/Araguaina"},
       {"name": "America/Bahia"},
@@ -153,6 +181,8 @@
     "name": "Burkina Faso",
     "locale": "fr_BF",
     "language": "bf",
+    "currency": "XOF",
+    "phoneCode": "+226",
     "timezones": [
       {"name": "Africa/Abidjan"},
       {"name": "Africa/Ouagadougou"}
@@ -162,6 +192,8 @@
     "name": "Burundi",
     "locale": "fr_BI",
     "language": "bi",
+    "currency": "BIF",
+    "phoneCode": "+257",
     "timezones": [
       {"name": "Africa/Bujumbura"},
       {"name": "Africa/Maputo"}
@@ -171,6 +203,8 @@
     "name": "Benin",
     "locale": "fr_BJ",
     "language": "bj",
+    "currency": "fr_BJ",
+    "phoneCode": "+229",
     "timezones": [
       {"name": "Africa/Lagos"},
       {"name": "Africa/Porto-Novo"}
@@ -180,6 +214,8 @@
     "name": "Brunei",
     "locale": "ms_BN",
     "language": "bn",
+    "currency": "BND",
+    "phoneCode": "+673",
     "timezones": [
       {"name": "Asia/Brunei"},
       {"name": "Asia/Kuching"}
@@ -189,6 +225,8 @@
     "name": "Bolivia",
     "locale": "es_BO",
     "language": "bo",
+    "currency": "BOB",
+    "phoneCode": "+591",
     "timezones": [
       {"name": "America/La_Paz"}
     ]
@@ -197,6 +235,8 @@
     "name": "Belarus",
     "locale": "be_BY",
     "language": "by",
+    "currency": "BYR",
+    "phoneCode": "+375",
     "timezones": [
       {"name": "Europe/Minsk"}
     ]
@@ -205,6 +245,8 @@
     "name": "Canada",
     "locale": "en_CA",
     "language": "en",
+    "currency": "CAD",
+    "phoneCode": "+1",
     "timezones": [
       {"name": "America/Atikokan"},
       {"name": "America/Blanc-Sablon"},
@@ -240,6 +282,8 @@
     "name": "Switzerland",
     "locale": "de_CH",
     "language": "de",
+    "currency": "CHF",
+    "phoneCode": "+423",
     "timezones": [
       {"name": "Europe/Zurich"}
     ]
@@ -248,6 +292,8 @@
     "name": "Croatia",
     "locale": "hr_HR",
     "language": "hr",
+    "currency": "HRK",
+    "phoneCode": "+385",
     "timezones": [
       {"name": "Europe/Belgrade"},
       {"name": "Europe/Zagreb"}
@@ -257,6 +303,8 @@
     "name": "Central African Republic",
     "locale": "fr_CF",
     "language": "cf",
+    "currency": "XAF",
+    "phoneCode": "+236",
     "timezones": [
       {"name": "Africa/Bangui"},
       {"name": "Africa/Lagos"}
@@ -266,6 +314,8 @@
     "name": "China",
     "locale": "zh",
     "language": "zh",
+    "currency": "CNY",
+    "phoneCode": "+86",
     "timezones": [
       {"name": "Asia/Shanghai"},
       {"name": "Asia/Urumqi"}
@@ -275,6 +325,8 @@
     "name": "Czech (Czech Republic)",
     "locale": "cs_CZ",
     "language": "cz",
+    "currency": "CZK",
+    "phoneCode": "+420",
     "timezones": [
       {"name": "Europe/Prague"}
     ]
@@ -283,6 +335,8 @@
     "name": "Chile",
     "locale": "es_CL",
     "language": "cl",
+    "currency": "CLP",
+    "phoneCode": "+56",
     "timezones": [
       {"name": "America/Punta_Arenas"},
       {"name": "America/Santiago"},
@@ -293,6 +347,8 @@
     "name": "Cameroon",
     "locale": "fr_CM",
     "language": "cm",
+    "currency": "XAF",
+    "phoneCode": "+237",
     "timezones": [
       {"name": "Africa/Douala"},
       {"name": "Africa/Lagos"}
@@ -302,6 +358,8 @@
     "name": "Colombia",
     "locale": "es_CO",
     "language": "co",
+    "currency": "COP",
+    "phoneCode": "+57",
     "timezones": [
       {"name": "America/Bogota"}
     ]
@@ -310,6 +368,8 @@
     "name": "Costa Rica",
     "locale": "es_CR",
     "language": "cr",
+    "currency": "CRC",
+    "phoneCode": "+506",
     "timezones": [
       {"name": "America/Costa_Rica"}
     ]
@@ -318,6 +378,8 @@
     "name": "Cuba",
     "locale": "es_CU",
     "language": "cu",
+    "currency": "CUP",
+    "phoneCode": "+53",
     "timezones": [
       {"name": "America/Havana"}
     ]
@@ -326,6 +388,8 @@
     "name": "Cambodia",
     "locale": "km_KH",
     "language": "kh",
+    "currency": "KHR",
+    "phoneCode": "+855",
     "timezones": [
       {"name": "Asia/Bangkok"},
       {"name": "Asia/Phnom_Penh"}
@@ -335,6 +399,8 @@
     "name": "Democratic Republic of the Congo",
     "locale": "fr_CD",
     "language": "cd",
+    "currency": "CDF",
+    "phoneCode": "+243",
     "timezones": [
       {"name": "Africa/Kinshasa"},
       {"name": "Africa/Lagos"},
@@ -346,6 +412,8 @@
     "name": "Republic of the Congo",
     "locale": "fr_CG",
     "language": "cg",
+    "currency": "XAF",
+    "phoneCode": "+242",
     "timezones": [
       {"name": "Africa/Brazzaville"},
       {"name": "Africa/Lagos"}
@@ -355,6 +423,8 @@
     "name": "Dominican Republic",
     "locale": "es_DO",
     "language": "do",
+    "currency": "DOP",
+    "phoneCode": "+1",
     "timezones": [
       {"name": "America/Santo_Domingo"}
     ]
@@ -363,6 +433,8 @@
     "name": "Germany",
     "locale": "de_DE",
     "language": "de",
+    "currency": "EUR",
+    "phoneCode": "+49",
     "timezones": [
       {"name": "Europe/Berlin"},
       {"name": "Europe/Busingen"},
@@ -373,6 +445,8 @@
     "name": "Denmark",
     "locale": "da_DK",
     "language": "dk",
+    "currency": "DKK",
+    "phoneCode": "+45",
     "timezones": [
       {"name": "Europe/Berlin"},
       {"name": "Europe/Copenhagen"}
@@ -382,6 +456,8 @@
     "name": "Ecuador",
     "locale": "es_EC",
     "language": "es",
+    "currency": "USD",
+    "phoneCode": "+593",
     "timezones": [
       {"name": "America/Guayaquil"},
       {"name": "Pacific/Galapagos"}
@@ -391,6 +467,8 @@
     "name": "Estonia",
     "locale": "et_EE",
     "language": "ee",
+    "currency": "EUR",
+    "phoneCode": "+372",
     "timezones": [
       {"name": "Europe/Tallinn"}
     ]
@@ -399,6 +477,8 @@
     "name": "Egypt",
     "locale": "ar_EG",
     "language": "eg",
+    "currency": "EGP",
+    "phoneCode": "+20",
     "timezones": [
       {"name": "Africa/Cairo"}
     ]
@@ -407,6 +487,8 @@
     "name": "Ethiopia",
     "locale": "om_ET",
     "language": "et",
+    "currency": "ETB",
+    "phoneCode": "+251",
     "timezones": [
       {"name": "Africa/Addis_Ababa"},
       {"name": "Africa/Nairobi"}
@@ -416,6 +498,8 @@
     "name": "Finland",
     "locale": "fi_FI",
     "language": "fi",
+    "currency": "EUR",
+    "phoneCode": "+358",
     "timezones": [
       {"name": "Europe/Helsinki"}
     ]
@@ -424,6 +508,8 @@
     "name": "France",
     "locale": "fr_FR",
     "language": "fr",
+    "currency": "EUR",
+    "phoneCode": "+33",
     "timezones": [
       {"name": "Europe/Paris"}
     ]
@@ -432,6 +518,8 @@
     "name": "Spain",
     "locale": "eu_ES",
     "language": "es",
+    "currency": "EUR",
+    "phoneCode": "+34",
     "timezones": [
       {"name": "Africa/Ceuta"},
       {"name": "Atlantic/Canary"},
@@ -442,6 +530,8 @@
     "name": "Sudan",
     "locale": "ar_SD",
     "language": "sd",
+    "currency": "SDG",
+    "phoneCode": "+249",
     "timezones": [
       {"name": "Africa/Khartoum"}
     ]
@@ -450,6 +540,8 @@
     "name": "Sweden",
     "locale": "sv_SE",
     "language": "se",
+    "currency": "SEK",
+    "phoneCode": "+46",
     "timezones": [
       {"name": "Europe/Berlin"},
       {"name": "Europe/Stockholm"}
@@ -459,6 +551,8 @@
     "name": "Singapore",
     "locale": "en_SG",
     "language": "sg",
+    "currency": "SGD",
+    "phoneCode": "+65",
     "timezones": [
       {"name": "Asia/Singapore"}
     ]
@@ -467,6 +561,8 @@
     "name": "South Korea",
     "locale": "ko_KR",
     "language": "kr",
+    "currency": "KRW",
+    "phoneCode": "+82",
     "timezones": [
       {"name": "Asia/Seoul"}
     ]
@@ -475,6 +571,8 @@
     "name": "Georgia",
     "locale": "ka_GE",
     "language": "ge",
+    "currency": "GEL",
+    "phoneCode": "+995",
     "timezones": [
       {"name": "Asia/Tbilisi"}
     ]
@@ -483,6 +581,8 @@
     "name": "Greece",
     "locale": "el_GR",
     "language": "gr",
+    "currency": "EUR",
+    "phoneCode": "+30",
     "timezones": [
       {"name": "Europe/Athens"}
     ]
@@ -491,6 +591,8 @@
     "name": "Ghana",
     "locale": "ak_GH",
     "language": "gh",
+    "currency": "GHS",
+    "phoneCode": "+233",
     "timezones": [
       {"name": "Africa/Abidjan"},
       {"name": "Africa/Accra"}
@@ -500,6 +602,8 @@
     "name": "Guinea",
     "locale": "fr_GN",
     "language": "gn",
+    "currency": "GNF",
+    "phoneCode": "+224",
     "timezones": [
       {"name": "Africa/Abidjan"},
       {"name": "Africa/Conakry"}
@@ -509,6 +613,8 @@
     "name": "Guatemala",
     "locale": "es_GT",
     "language": "gt",
+    "currency": "GTQ",
+    "phoneCode": "+502",
     "timezones": [
       {"name": "America/Guatemala"}
     ]
@@ -517,6 +623,8 @@
     "name": "Hong Kong",
     "locale": "en_HK",
     "language": "hk",
+    "currency": "HKD",
+    "phoneCode": "+852",
     "timezones": [
       {"name": "Asia/Hong_Kong"}
     ]
@@ -525,6 +633,8 @@
     "name": "Honduras",
     "locale": "es_HN",
     "language": "hn",
+    "currency": "HNL",
+    "phoneCode": "+504",
     "timezones": [
       {"name": "America/Tegucigalpa"}
     ]
@@ -533,6 +643,8 @@
     "name": "Hungary",
     "locale": "hu_HU",
     "language": "hu",
+    "currency": "HUF",
+    "phoneCode": "+36",
     "timezones": [
       {"name": "Europe/Budapest"}
     ]
@@ -541,6 +653,8 @@
     "name": "Iceland",
     "locale": "is_IS",
     "language": "is",
+    "currency": "ISK",
+    "phoneCode": "+354",
     "timezones": [
       {"name": "Africa/Abidjan"},
       {"name": "Atlantic/Reykjavik"}
@@ -550,6 +664,8 @@
     "name": "Indonesia",
     "locale": "id_ID",
     "language": "id",
+    "currency": "IDR",
+    "phoneCode": "+62",
     "timezones": [
       {"name": "Asia/Jakarta"},
       {"name": "Asia/Jayapura"},
@@ -561,6 +677,8 @@
     "name": "Ireland",
     "locale": "en_IE",
     "language": "ie",
+    "currency": "EUR",
+    "phoneCode": "+353",
     "timezones": [
       {"name": "Europe/Dublin"}
     ]
@@ -569,6 +687,8 @@
     "name": "Israel",
     "locale": "en_IL",
     "language": "il",
+    "currency": "ILS",
+    "phoneCode": "+972",
     "timezones": [
       {"name": "Asia/Jerusalem"}
     ]
@@ -577,6 +697,8 @@
     "name": "India",
     "locale": "en_IN",
     "language": "in",
+    "currency": "INR",
+    "phoneCode": "+91",
     "timezones": [
       {"name": "Asia/Kolkata"}
     ]
@@ -585,6 +707,8 @@
     "name": "Iraq",
     "locale": "ar_IQ",
     "language": "iq",
+    "currency": "IQD",
+    "phoneCode": "+964",
     "timezones": [
       {"name": "Asia/Baghdad"}
     ]
@@ -593,6 +717,8 @@
     "name": "Iran",
     "locale": "fa_IR",
     "language": "ir",
+    "currency": "IRR",
+    "phoneCode": "+98",
     "timezones": [
       {"name": "Asia/Tehran"}
     ]
@@ -601,6 +727,8 @@
     "name": "Italy",
     "locale": "it_IT",
     "language": "it",
+    "currency": "EUR",
+    "phoneCode": "+39",
     "timezones": [
       {"name": "Europe/Rome"}
     ]
@@ -609,6 +737,8 @@
     "name": "Jordan",
     "locale": "ar_JO",
     "language": "jo",
+    "currency": "JOD",
+    "phoneCode": "+962",
     "timezones": [
       {"name": "Asia/Amman"}
     ]
@@ -617,6 +747,8 @@
     "name": "Japan",
     "locale": "ja_JP",
     "language": "jp",
+    "currency": "JPY",
+    "phoneCode": "+81",
     "timezones": [
       {"name": "Asia/Tokyo"}
     ]
@@ -625,6 +757,8 @@
     "name": "Kuwait",
     "locale": "ar_KW",
     "language": "kw",
+    "currency": "KWD",
+    "phoneCode": "+965",
     "timezones": [
       {"name": "Asia/Kuwait"},
       {"name": "Asia/Riyadh"}
@@ -634,6 +768,8 @@
     "name": "Kenya",
     "locale": "en_KE",
     "language": "ke",
+    "currency": "KES",
+    "phoneCode": "+254",
     "timezones": [
       {"name": "Africa/Nairobi"}
     ]
@@ -642,6 +778,8 @@
     "name": "Kyrgyzstan",
     "locale": "ky_KG",
     "language": "kg",
+    "currency": "KGS",
+    "phoneCode": "+996",
     "timezones": [
       {"name": "Asia/Bishkek"}
     ]
@@ -650,6 +788,8 @@
     "name": "Kazakhstan",
     "locale": "kk_Cyrl_KZ",
     "language": "kz",
+    "currency": "KZT",
+    "phoneCode": "+7",
     "timezones": [
       {"name": "Asia/Almaty"},
       {"name": "Asia/Aqtau"},
@@ -664,6 +804,8 @@
     "name": "Laos",
     "locale": "lo_LA",
     "language": "la",
+    "currency": "LAK",
+    "phoneCode": "+856",
     "timezones": [
       {"name": "Asia/Bangkok"},
       {"name": "Asia/Vientiane"}
@@ -673,6 +815,8 @@
     "name": "Lebanon",
     "locale": "ar_LB",
     "language": "lb",
+    "currency": "LBP",
+    "phoneCode": "+961",
     "timezones": [
       {"name": "Asia/Beirut"}
     ]
@@ -681,6 +825,8 @@
     "name": "Lithuania",
     "locale": "lt_LT",
     "language": "lt",
+    "currency": "LTL",
+    "phoneCode": "+370",
     "timezones": [
       {"name": "Europe/Vilnius"}
     ]
@@ -689,6 +835,8 @@
     "name": "Luxembourg",
     "locale": "de_LU",
     "language": "lu",
+    "currency": "EUR",
+    "phoneCode": "+352",
     "timezones": [
       {"name": "Europe/Brussels"},
       {"name": "Europe/Luxembourg"}
@@ -698,6 +846,8 @@
     "name": "Libya",
     "locale": "ar_LY",
     "language": "ly",
+    "currency": "LYD",
+    "phoneCode": "+218",
     "timezones": [
       {"name": "Africa/Tripoli"}
     ]
@@ -706,6 +856,8 @@
     "name": "Sri Lanka",
     "locale": "si_LK",
     "language": "lk",
+    "currency": "LKR",
+    "phoneCode": "+94",
     "timezones": [
       {"name": "Asia/Colombo"}
     ]
@@ -714,6 +866,8 @@
     "name": "South Africa",
     "locale": "en_ZA",
     "language": "za",
+    "currency": "ZAR",
+    "phoneCode": "+27",
     "timezones": [
       {"name": "Africa/Johannesburg"}
     ]
@@ -722,6 +876,8 @@
     "name": "Morocco",
     "locale": "ar_MA",
     "language": "ma",
+    "currency": "MAD",
+    "phoneCode": "+212",
     "timezones": [
       {"name": "Africa/Casablanca"}
     ]
@@ -730,6 +886,8 @@
     "name": "Moldova",
     "locale": "ro_MD",
     "language": "md",
+    "currency": "MDL",
+    "phoneCode": "+373",
     "timezones": [
       {"name": "Europe/Chisinau"}
     ]
@@ -738,6 +896,8 @@
     "name": "Montenegro",
     "locale": "sr_Latn_ME",
     "language": "me",
+    "currency": "EUR",
+    "phoneCode": "+382",
     "timezones": [
       {"name": "Europe/Belgrade"},
       {"name": "Europe/Podgorica"}
@@ -747,6 +907,8 @@
     "name": "Myanmar",
     "locale": "my_MM",
     "language": "me",
+    "currency": "MMK",
+    "phoneCode": "+95",
     "timezones": [
       {"name": "Asia/Rangoon"},
       {"name": "Asia/Yangon"}
@@ -756,6 +918,8 @@
     "name": "Mongolia",
     "locale": "mn_MN",
     "language": "mn",
+    "currency": "MNT",
+    "phoneCode": "+976",
     "timezones": [
       {"name": "Asia/Choibalsan"},
       {"name": "Asia/Hovd"},
@@ -766,6 +930,8 @@
     "name": "Malta",
     "locale": "en_MT",
     "language": "mt",
+    "currency": "EUR",
+    "phoneCode": "+356",
     "timezones": [
       {"name": "Europe/Malta"}
     ]
@@ -774,6 +940,8 @@
     "name": "Malaysia",
     "locale": "ms_MY",
     "language": "my",
+    "currency": "MYR",
+    "phoneCode": "+60",
     "timezones": [
       {"name": "Asia/Kuala_Lumpur"},
       {"name": "Asia/Kuching"},
@@ -784,6 +952,8 @@
     "name": "Maldives",
     "locale": "dv_MV",
     "language": "mv",
+    "currency": "MVR",
+    "phoneCode": "+960",
     "timezones": [
       {"name": "Indian/Maldives"}
     ]
@@ -792,6 +962,8 @@
     "name": "Mexico",
     "locale": "es_MX",
     "language": "mx",
+    "currency": "MXN",
+    "phoneCode": "+52",
     "timezones": [
       {"name": "America/Bahia_Banderas"},
       {"name": "America/Cancun"},
@@ -811,6 +983,8 @@
     "name": "Netherlands",
     "locale": "nl_NL",
     "language": "nl",
+    "currency": "EUR",
+    "phoneCode": "+31",
     "timezones": [
       {"name": "Europe/Amsterdam"},
       {"name": "Europe/Brussels"}
@@ -820,6 +994,8 @@
     "name": "New Zealand",
     "locale": "en_NZ",
     "language": "nz",
+    "currency": "NZD",
+    "phoneCode": "+682",
     "timezones": [
       {"name": "Pacific/Auckland"},
       {"name": "Pacific/Chatham"}
@@ -829,6 +1005,8 @@
     "name": "Niger",
     "locale": "fr_NE",
     "language": "ne",
+    "currency": "XOF",
+    "phoneCode": "+227",
     "timezones": [
       {"name": "Africa/Lagos"},
       {"name": "Africa/Niamey"}
@@ -838,6 +1016,8 @@
     "name": "Nigeria",
     "locale": "ig_NG",
     "language": "ng",
+    "currency": "NGN",
+    "phoneCode": "+234",
     "timezones": [
       {"name": "Africa/Lagos"}
     ]
@@ -846,6 +1026,8 @@
     "name": "Norway",
     "locale": "nn_NO",
     "language": "no",
+    "currency": "NOK",
+    "phoneCode": "+55",
     "timezones": [
       {"name": "Europe/Berlin"},
       {"name": "Europe/Oslo"}
@@ -855,6 +1037,8 @@
     "name": "Nepal",
     "locale": "ne_NP",
     "language": "np",
+    "currency": "NPR",
+    "phoneCode": "+977",
     "timezones": [
       {"name": "Asia/Kathmandu"}
     ]
@@ -863,15 +1047,29 @@
     "name": "Oman",
     "locale": "ar_OM",
     "language": "om",
+    "currency": "OMR",
+    "phoneCode": "+968",
     "timezones": [
       {"name": "Asia/Dubai"},
       {"name": "Asia/Muscat"}
     ]
   },
   {
+    "name": "Philippines",
+    "locale": "en_PH",
+    "language": "en",
+    "currency": "PHP",
+    "phoneCode": "+63",
+    "timezones": [
+      {"name": "Asia/Manila"}
+    ]
+  },
+  {
     "name": "Peru",
     "locale": "es_PE",
     "language": "pe",
+    "currency": "PEN",
+    "phoneCode": "+51",
     "timezones": [
       {"name": "America/Lima"}
     ]
@@ -880,6 +1078,8 @@
     "name": "Pakistan",
     "locale": "en_PK",
     "language": "pk",
+    "currency": "PKR",
+    "phoneCode": "+92",
     "timezones": [
       {"name": "Asia/Karachi"}
     ]
@@ -888,6 +1088,8 @@
     "name": "Poland",
     "locale": "pl_PL",
     "language": "pl",
+    "currency": "PLN",
+    "phoneCode": "+48",
     "timezones": [
       {"name": "Europe/Warsaw"}
     ]
@@ -896,6 +1098,8 @@
     "name": "Portugal",
     "locale": "pt_PT",
     "language": "pt",
+    "currency": "EUR",
+    "phoneCode": "+351",
     "timezones": [
       {"name": "Atlantic/Azores"},
       {"name": "Atlantic/Madeira"},
@@ -906,6 +1110,8 @@
     "name": "Paraguay",
     "locale": "es_PY",
     "language": "py",
+    "currency": "PYG",
+    "phoneCode": "+595",
     "timezones": [
       {"name": "America/Asuncion"}
     ]
@@ -914,6 +1120,8 @@
     "name": "Qatar",
     "locale": "ar_QA",
     "language": "qa",
+    "currency": "QAR",
+    "phoneCode": "+974",
     "timezones": [
       {"name": "Asia/Qatar"}
     ]
@@ -922,6 +1130,8 @@
     "name": "Romania",
     "locale": "ro_RO",
     "language": "ro",
+    "currency": "RON",
+    "phoneCode": "+40",
     "timezones": [
       {"name": "Europe/Bucharest"}
     ]
@@ -930,6 +1140,8 @@
     "name": "Slovenia",
     "locale": "sl_SI",
     "language": "si",
+    "currency": "EUR",
+    "phoneCode": "+386",
     "timezones": [
       {"name": "Europe/Belgrade"},
       {"name": "Europe/Ljubljana"}
@@ -939,6 +1151,8 @@
     "name": "Slovakia",
     "locale": "sk_SK",
     "language": "sk",
+    "currency": "EUR",
+    "phoneCode": "+421",
     "timezones": [
       {"name": "Europe/Bratislava"},
       {"name": "Europe/Prague"}
@@ -948,6 +1162,8 @@
     "name": "Serbia",
     "locale": "sr_Latn_RS",
     "language": "sr",
+    "currency": "RSD",
+    "phoneCode": "+381",
     "timezones": [
       {"name": "Europe/Belgrade"}
     ]
@@ -956,6 +1172,8 @@
     "name": "Saudi Arabia",
     "locale": "ar_SA",
     "language": "sa",
+    "currency": "SAR",
+    "phoneCode": "+966",
     "timezones": [
       {"name": "Asia/Riyadh"}
     ]
@@ -964,6 +1182,8 @@
     "name": "Russia",
     "locale": "ru_RU",
     "language": "ru",
+    "currency": "RUB",
+    "phoneCode": "+7",
     "timezones": [
       {"name": "Asia/Anadyr"},
       {"name": "Asia/Barnaul"},
@@ -998,6 +1218,8 @@
     "name": "Türkiye",
     "locale": "tr_TR",
     "language": "tr",
+    "currency": "TRY",
+    "phoneCode": "+90",
     "timezones": [
       {"name": "Europe/Istanbul"}
     ]
@@ -1006,6 +1228,8 @@
     "name": "Thailand",
     "locale": "th_TH",
     "language": "th",
+    "currency": "THB",
+    "phoneCode": "+66",
     "timezones": [
       {"name": "Asia/Bangkok"}
     ]
@@ -1014,6 +1238,8 @@
     "name": "Taiwan",
     "locale": "zh_Hant_TW",
     "language": "tw",
+    "currency": "TWD",
+    "phoneCode": "+886",
     "timezones": [
       {"name": "Asia/Taipei"}
     ]
@@ -1022,6 +1248,8 @@
     "name": "Tajikistan",
     "locale": "tg_TJ",
     "language": "tj",
+    "currency": "TJS",
+    "phoneCode": "+992",
     "timezones": [
       {"name": "Asia/Dushanbe"}
     ]
@@ -1030,6 +1258,8 @@
     "name": "Turkmenistan",
     "locale": "tk_TM",
     "language": "tm",
+    "currency": "TMT",
+    "phoneCode": "+993",
     "timezones": [
       {"name": "Asia/Ashgabat"}
     ]
@@ -1038,6 +1268,8 @@
     "name": "Tunisia",
     "locale": "ar_TN",
     "language": "tn",
+    "currency": "TND",
+    "phoneCode": "+216",
     "timezones": [
       {"name": "Africa/Tunis"}
     ]
@@ -1046,6 +1278,8 @@
     "name": "United States",
     "locale": "en_US",
     "language": "en",
+    "currency": "USD",
+    "phoneCode": "+1",
     "timezones": [
       {"name": "America/Adak"},
       {"name": "America/Anchorage"},
@@ -1082,6 +1316,8 @@
     "name": "United Kingdom",
     "locale": "en_UK",
     "language": "en",
+    "currency": "GBP",
+    "phoneCode": "+44",
     "timezones": [
       {"name": "Europe/London"}
     ]
@@ -1090,6 +1326,8 @@
     "name": "United Arab Emirates",
     "locale": "ar_AE",
     "language": "ae",
+    "currency": "AED",
+    "phoneCode": "+971",
     "timezones": [
       {"name": "Asia/Dubai"}
     ]
@@ -1098,6 +1336,8 @@
     "name": "Ukraine",
     "locale": "uk_UA",
     "language": "ua",
+    "currency": "UAH",
+    "phoneCode": "+380",
     "timezones": [
       {"name": "Europe/Kyiv"},
       {"name": "Europe/Simferopol"}
@@ -1107,6 +1347,8 @@
     "name": "Uganda",
     "locale": "cgg_UG",
     "language": "ug",
+    "currency": "UGX",
+    "phoneCode": "+256",
     "timezones": [
       {"name": "Africa/Kampala"},
       {"name": "Africa/Nairobi"}
@@ -1116,6 +1358,8 @@
     "name": "Uzbekistan",
     "locale": "uz_Latn_UZ",
     "language": "uz",
+    "currency": "UZS",
+    "phoneCode": "+998",
     "timezones": [
       {"name": "Asia/Samarkand"},
       {"name": "Asia/Tashkent"}
@@ -1125,6 +1369,8 @@
     "name": "Vietnam",
     "locale": "vi_VN",
     "language": "vn",
+    "currency": "VND",
+    "phoneCode": "+84",
     "timezones": [
       {"name": "Asia/Bangkok"},
       {"name": "Asia/Ho_Chi_Minh"}
