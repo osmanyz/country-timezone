@@ -2,7 +2,14 @@
 
 There are 119+ countries with time zones.  I will update it frequently, until I add all the countries.
 
-Please don't hesitate to ask for a change if you notice any wrong information.
+Please don't hesitate to ask for a change if you notice any wrong information. 
+
+The JSON is validated and it passed all the validations. You can verify this yourself. 
+
+- https://www.toptal.com/developers/json-formatter
+- https://jsonformatter.curiousconcept.com
+- https://jsonlint.com/
+- https://codebeautify.org/jsonvalidator
 
 ### How I collected all the informations;
 
