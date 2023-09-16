@@ -1,0 +1,202 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Countries with Timezones and all necessary information.</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tabler/core@1.0.0-beta17/dist/js/tabler.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/core@1.0.0-beta17/dist/css/tabler.min.css">
+    <style>
+      @import url('https://rsms.me/inter/inter.css');
+      :root {
+      	--tblr-font-sans-serif: 'Inter Var', -apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif;
+      }
+      body {
+      	font-feature-settings: "cv03", "cv04", "cv11";
+      }
+    </style>
+  </head>
+  <body >
+    <div class="page">
+      <!-- Navbar -->
+      <header class="navbar navbar-expand-md d-print-none" >
+        <div class="container-xl">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu" aria-controls="navbar-menu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <h1 class="navbar-brand navbar-brand-autodark d-none-navbar-horizontal pe-0 pe-md-3">
+            <a href="."></a>
+          </h1>
+          <div class="navbar-nav flex-row order-md-last">
+            <div class="nav-item d-none d-md-flex">
+              <div class="btn-list">
+                <a href="https://github.com/osmanyz/country-timezone" class="btn" target="_blank" rel="noreferrer">
+                  <!-- Download SVG icon from http://tabler-icons.io/i/brand-github -->
+                  <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" /></svg>
+                  Source code
+                </a>
+                <a href="https://raw.githubusercontent.com/osmanyz/country-timezone/main/country-data.json" class="btn" target="_blank" rel="noreferrer">
+                  <!-- Download SVG icon from http://tabler-icons.io/i/heart -->
+                  <svg xmlns="http://www.w3.org/2000/svg" class="icon text-pink" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572" /></svg>
+                  Open JSON File
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="page-wrapper">
+        <!-- Page header -->
+        <div class="page-header d-print-none">
+          <div class="container-xl">
+            <div class="row g-2 align-items-center">
+              <div class="col">
+                <h2 class="page-title">
+                  Countries with Timezones
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Page body -->
+        <div class="page-body">
+
+
+          <div class="container-xl">
+            <div class="row row-cards">
+              
+              <div class="col-12">
+                <div class="card">
+                 
+                  <div class="card-body border-bottom py-3">
+                    <div class="d-flex">
+                      <div class="text-secondary">
+                        Show <span class="country-data-count">0</span> entries
+                      </div>
+                    </div>
+                  </div>
+                  <div class="table-responsive">
+                    <table class="table card-table table-vcenter text-nowrap datatable">
+                      <thead>
+                        <tr>
+                          <th class="w-1">No.</th>
+                          <th>Country</th>
+                          <th>Currency Code</th>
+                          <th>Phone Code</th>
+                          <th>Language</th>
+                          <th>Locale</th>
+                          <th>Timezones</th>
+                        </tr>
+                      </thead>
+                      <tbody id="country-data">
+                        <tr>
+                          <td colspan="7"><span class="text-muted">Loading....</span></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div class="card-footer d-flex align-items-center">
+                    <p class="m-0 text-secondary">
+                      Please contact us as you as you can if you notice any wrong information data. 
+                      Please don't hesitate to <a href="https://github.com/osmanyz/country-timezone/issues" target="_blank" rel="noopener">create an issue</a>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <footer class="footer footer-transparent d-print-none">
+          <div class="container-xl">
+            <div class="row text-center align-items-center flex-row-reverse">
+              <div class="col-lg-auto ms-lg-auto">
+                <ul class="list-inline list-inline-dots mb-0">
+                  <li class="list-inline-item"><a href="https://github.com/osmanyz/country-timezone" target="_blank" class="text-secondary" rel="noopener">Source code</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+    <script>
+    function displayData(data) {
+      var table = document.getElementById("country-data");
+      // Access and display the JSON data on the page
+      if (data?.length > 0) {
+        document.getElementsByClassName('country-data-count')[0].innerText = data.length;
+        // clear the table.
+        table.innerHTML = '';
+      }
+      data.forEach(function(country, index) {
+        // create table row
+        var tr = document.createElement("tr");
+        // create table data
+        // no
+        var tdNo = document.createElement("td");
+        var tdNoSpan = document.createElement("span");
+        tdNoSpan.classList.add('text-secondary');
+        tdNoSpan.innerText = index + 1;
+        tdNo.appendChild(tdNoSpan);
+        tr.appendChild(tdNo);
+        // name
+        var tdName = document.createElement("td");
+        tdName.innerText = country.name;
+        tr.appendChild(tdName);
+        // currency
+        var tdName = document.createElement("td");
+        tdName.innerText = country.currency;
+        tr.appendChild(tdName);
+        // phone code
+        var tdPhoneCode = document.createElement("td");
+        tdPhoneCode.innerText = country.phoneCode;
+        tr.appendChild(tdPhoneCode);
+        // language
+        var tdLanguage = document.createElement("td");
+        tdLanguage.innerText = country.language;
+        tr.appendChild(tdLanguage);
+        // locale
+        var tdLocale = document.createElement("td");
+        tdLocale.innerText = country.locale;
+        tr.appendChild(tdLocale);
+        // timezones
+        var tdTimeZones = document.createElement("td");
+        country.timezones.forEach(function(timezone){
+          var elTZ = document.createElement("span");
+          if (country.timezones.length > 1) {
+            elTZ.style.cssText = 'display:block; margin-right: 5px; margin-bottom: 5px;';
+          } else {
+            elTZ.style.cssText = 'display:block; margin-right: 5px';
+          }
+          elTZ.innerText = timezone.name;
+          tdTimeZones.appendChild(elTZ);
+        });
+        tr.appendChild(tdTimeZones);
+        // add row to the table
+        table.appendChild(tr);
+      });
+    }
+
+    // Fetch country data.
+    function fetchCountryJSONFile(callback) {
+      var xhr = new XMLHttpRequest();
+      xhr.overrideMimeType("application/json");
+      xhr.open("GET", 'https://raw.githubusercontent.com/osmanyz/country-timezone/main/country-data.json', true);
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          callback(xhr.responseText);
+        }
+      };
+      xhr.send(null);
+    }
+    // Usage
+    fetchCountryJSONFile(function (response) {
+      var data = JSON.parse(response);
+      displayData(data);
+    });
+    </script>
+  </body>
+</html>
