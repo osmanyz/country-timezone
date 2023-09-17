@@ -1,5 +1,6 @@
 [
   {
+    "code": "AF",
     "name": "Afghanistan",
     "locale": "ps_AF",
     "language": "af",
@@ -10,6 +11,29 @@
     ]
   },
   {
+    "code": "AX",
+    "name": "Åland Islands",
+    "locale": "sv_AX",
+    "language": "sv",
+    "currency": "EUR",
+    "phoneCode": "+358-18",
+    "timezones": [
+      {"name": "Europe/Mariehamn"}
+    ]
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "locale": "sq_AL",
+    "language": "al",
+    "currency": "ALL",
+    "phoneCode": "+355",
+    "timezones": [
+      {"name": "Europe/Tirane"}
+    ]
+  },
+  {
+    "code": "DZ",
     "name": "Algeria",
     "locale": "ar_DZ",
     "language": "dz",
@@ -20,16 +44,51 @@
     ]
   },
   {
-    "name": "Armenia",
-    "locale": "hy_AM",
-    "language": "am",
-    "currency": "AMD",
-    "phoneCode": "+374",
+    "code": "AS",
+    "name": "American Samoa",
+    "locale": "en_AS",
+    "language": "en",
+    "currency": "USD",
+    "phoneCode": "+012",
     "timezones": [
-      {"name": "Asia/Yerevan"}
+      {"name": "Pacific/Pago_Pago"}
     ]
   },
   {
+    "code": "AO",
+    "name": "Angola",
+    "locale": "pt_AO",
+    "language": "pt",
+    "currency": "AOA",
+    "phoneCode": "+244",
+    "timezones": [
+      {"name": "Africa/Luanda"}
+    ]
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "locale": "en_AI",
+    "language": "en",
+    "currency": "XCD",
+    "phoneCode": "+1-264",
+    "timezones": [
+      {"name": "America/Anguilla"}
+    ]
+  },
+  {
+    "code": "AG",
+    "name": "Antigua & Barbuda",
+    "locale": "en_AG",
+    "language": "en",
+    "currency": "XCD",
+    "phoneCode": "+1-268",
+    "timezones": [
+      {"name": "America/Antigua"}
+    ]
+  },
+  {
+    "code": "AR",
     "name": "Argentina",
     "locale": "es_AR",
     "language": "ar",
@@ -51,6 +110,29 @@
     ]
   },
   {
+    "code": "AM",
+    "name": "Armenia",
+    "locale": "hy_AM",
+    "language": "am",
+    "currency": "AMD",
+    "phoneCode": "+374",
+    "timezones": [
+      {"name": "Asia/Yerevan"}
+    ]
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "locale": "nl_AW",
+    "language": "nl",
+    "currency": "AWG",
+    "phoneCode": "+297",
+    "timezones": [
+      {"name": "America/Aruba"}
+    ]
+  },
+  {
+    "code": "AU",
     "name": "Australia",
     "locale": "en_AU",
     "language": "en",
@@ -73,16 +155,7 @@
     ]
   },
   {
-    "name": "Albania",
-    "locale": "sq_AL",
-    "language": "al",
-    "currency": "ALL",
-    "phoneCode": "+355",
-    "timezones": [
-      {"name": "Europe/Tirane"}
-    ]
-  },
-  {
+    "code": "AT",
     "name": "Austria",
     "locale": "de_AT",
     "language": "de",
@@ -93,6 +166,7 @@
     ]
   },
   {
+    "code": "AZ",
     "name": "Azerbaijan",
     "locale": "az",
     "language": "az",
