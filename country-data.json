@@ -258,7 +258,7 @@
     "name": "Benin",
     "locale": "fr_BJ",
     "language": "bj",
-    "currency": "fr_BJ",
+    "currency": "XOF",
     "phoneCode": "+229",
     "timezones": [
       {"name": "Africa/Lagos"},
