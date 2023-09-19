@@ -177,46 +177,18 @@
     ]
   },
   {
-    "name": "Bosnia and Herzegovina",
-    "locale": "bs_BA",
-    "language": "ba",
-    "currency": "BAM",
-    "phoneCode": "+387",
+    "code": "BS",
+    "name": "Bahamas",
+    "locale": "en_BS",
+    "language": "en",
+    "currency": "BSD",
+    "phoneCode": "+1-242",
     "timezones": [
-      {"name": "Europe/Belgrade"}
+      {"name": "America/Nassau"}
     ]
   },
   {
-    "name": "Bangladesh",
-    "locale": "bn_BD",
-    "language": "bd",
-    "currency": "BDT",
-    "phoneCode": "+880",
-    "timezones": [
-      {"name": "Asia/Dhaka"}
-    ]
-  },
-  {
-    "name": "Belgium",
-    "locale": "en_BE",
-    "language": "be",
-    "currency": "EUR",
-    "phoneCode": "+32",
-    "timezones": [
-      {"name": "Europe/Brussels"}
-    ]
-  },
-  {
-    "name": "Bulgaria",
-    "locale": "bg_BG",
-    "language": "bg",
-    "currency": "BGN",
-    "phoneCode": "+359",
-    "timezones": [
-      {"name": "Europe/Sofia"}
-    ]
-  },
-  {
+    "code": "BH",
     "name": "Bahrain",
     "locale": "ar_BH",
     "language": "bh",
@@ -227,6 +199,141 @@
     ]
   },
   {
+    "code": "BD",
+    "name": "Bangladesh",
+    "locale": "bn_BD",
+    "language": "bd",
+    "currency": "BDT",
+    "phoneCode": "+880",
+    "timezones": [
+      {"name": "Asia/Dhaka"}
+    ]
+  },
+  {
+    "code": "BB",
+    "name": "Barbados", 
+    "locale": "en_BB",
+    "language": "en",
+    "currency": "BBD",
+    "phoneCode": "+1-246",
+    "timezones": [
+      {"name": "America/Barbados"}
+    ]
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "locale": "be_BY",
+    "language": "by",
+    "currency": "BYR",
+    "phoneCode": "+375",
+    "timezones": [
+      {"name": "Europe/Minsk"}
+    ]
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "locale": "en_BE",
+    "language": "be",
+    "currency": "EUR",
+    "phoneCode": "+32",
+    "timezones": [
+      {"name": "Europe/Brussels"}
+    ]
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "locale": "es_BZ",
+    "language": "es",
+    "currency": "BZD",
+    "phoneCode": "+501",
+    "timezones": [
+      {"name": "America/Belize"}
+    ]
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "locale": "fr_BJ",
+    "language": "bj",
+    "currency": "fr_BJ",
+    "phoneCode": "+229",
+    "timezones": [
+      {"name": "Africa/Lagos"},
+      {"name": "Africa/Porto-Novo"}
+    ]
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "locale": "en_BM",
+    "language": "en",
+    "currency": "BMD",
+    "phoneCode": "+1-441",
+    "timezones": [
+      {"name": "America/Chicago"}
+    ]
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "locale": "dz_BT",
+    "language": "bt",
+    "currency": "BTN",
+    "phoneCode": "+975",
+    "timezones": [
+      {"name": "Asia/Thimphu"}
+    ]
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "locale": "es_BO",
+    "language": "bo",
+    "currency": "BOB",
+    "phoneCode": "+591",
+    "timezones": [
+      {"name": "America/La_Paz"}
+    ]
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "locale": "bs_BA",
+    "language": "ba",
+    "currency": "BAM",
+    "phoneCode": "+387",
+    "timezones": [
+      {"name": "Europe/Belgrade"}
+    ]
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "locale": "en_BW",
+    "language": "bw",
+    "currency": "BWP",
+    "phoneCode": "+267",
+    "timezones": [
+      {"name": "Africa/Gaborone"}
+    ]
+  },
+  {
+    "code": "BV",
+    "name": "Bouvet Island",
+    "locale": "nn_NO",
+    "language": "en",
+    "currency": "NOK",
+    "phoneCode": "+55",
+    "timezones": [
+      {"name": "Europe/Berlin"},
+      {"name": "Europe/Oslo"}
+    ]
+  },
+  {
+    "code": "BR",
     "name": "Brazil",
     "locale": "pt_BR",
     "language": "br",
@@ -252,39 +359,29 @@
     ]
   },
   {
-    "name": "Burkina Faso",
-    "locale": "fr_BF",
-    "language": "bf",
-    "currency": "XOF",
-    "phoneCode": "+226",
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "locale": "en_IO",
+    "language": "en",
+    "currency": "USD",
+    "phoneCode": "+246",
     "timezones": [
-      {"name": "Africa/Abidjan"},
-      {"name": "Africa/Ouagadougou"}
+      {"name": "Indian/Chagos"}
     ]
   },
   {
-    "name": "Burundi",
-    "locale": "fr_BI",
-    "language": "bi",
-    "currency": "BIF",
-    "phoneCode": "+257",
+    "code": "VG",
+    "name": "British Virgin Islands",
+    "locale": "en_VG",
+    "language": "en",
+    "currency": "USD",
+    "phoneCode": "+1-284",
     "timezones": [
-      {"name": "Africa/Bujumbura"},
-      {"name": "Africa/Maputo"}
+      {"name": "America/Tortola"}
     ]
   },
   {
-    "name": "Benin",
-    "locale": "fr_BJ",
-    "language": "bj",
-    "currency": "fr_BJ",
-    "phoneCode": "+229",
-    "timezones": [
-      {"name": "Africa/Lagos"},
-      {"name": "Africa/Porto-Novo"}
-    ]
-  },
-  {
+    "code": "BN",
     "name": "Brunei",
     "locale": "ms_BN",
     "language": "bn",
@@ -296,23 +393,38 @@
     ]
   },
   {
-    "name": "Bolivia",
-    "locale": "es_BO",
-    "language": "bo",
-    "currency": "BOB",
-    "phoneCode": "+591",
+    "code": "BG",
+    "name": "Bulgaria",
+    "locale": "bg_BG",
+    "language": "bg",
+    "currency": "BGN",
+    "phoneCode": "+359",
     "timezones": [
-      {"name": "America/La_Paz"}
+      {"name": "Europe/Sofia"}
     ]
   },
   {
-    "name": "Belarus",
-    "locale": "be_BY",
-    "language": "by",
-    "currency": "BYR",
-    "phoneCode": "+375",
+    "code": "BF",
+    "name": "Burkina Faso",
+    "locale": "fr_BF",
+    "language": "bf",
+    "currency": "XOF",
+    "phoneCode": "+226",
     "timezones": [
-      {"name": "Europe/Minsk"}
+      {"name": "Africa/Abidjan"},
+      {"name": "Africa/Ouagadougou"}
+    ]
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "locale": "fr_BI",
+    "language": "bi",
+    "currency": "BIF",
+    "phoneCode": "+257",
+    "timezones": [
+      {"name": "Africa/Bujumbura"},
+      {"name": "Africa/Maputo"}
     ]
   },
   {
