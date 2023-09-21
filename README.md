@@ -1,11 +1,11 @@
 # Countries and Timezones
 
-There are 119+ countries with time zones.  I will update it frequently, until I add all the countries.
+There are 134+ countries with time zones.  I will update it frequently, until I add all the countries.
 
 Please don't hesitate to ask for a change if you notice any wrong information. 
 
 
-### How I collected all the informations;
+### How I collected all the information;
 
 - Confirmed and checked all timezones here https://www.php.net/manual/en/timezones.php
 - Confirmed and checked all countries code here https://www.iban.com/country-codes 
