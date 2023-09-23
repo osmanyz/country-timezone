@@ -2,7 +2,7 @@
 
 There are 134+ countries with time zones.  I will update it frequently, until I add all the countries.
 
-Please don't hesitate to ask for a change if you notice any wrong information. 
+Please don't hesitate to ask for a change if you notice incorrect information. 
 
 
 ### How I collected all the information;
