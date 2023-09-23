@@ -7,10 +7,10 @@ Please don't hesitate to ask for a change if you notice any wrong information.
 
 ### How I collected all the information;
 
-- Checked timezones here https://www.php.net/manual/en/timezones.php
-- Checked countries code here https://www.iban.com/country-codes 
-- Checked phone codes here https://en.wikipedia.org/wiki/List_of_country_calling_codes
-- Checked locale codes here http://www.lingoes.net/en/translator/langcode.htm
+- Checked timezones here [https://www.php.net/manual/en/timezones.php](https://www.php.net/manual/en/timezones.php)
+- Checked countries code here [https://www.iban.com/country-codes](https://www.iban.com/country-codes)
+- Checked phone codes here [https://en.wikipedia.org/wiki/List_of_country_calling_codes](https://en.wikipedia.org/wiki/List_of_country_calling_codes)
+- Checked locale codes here [http://www.lingoes.net/en/translator/langcode.htm](http://www.lingoes.net/en/translator/langcode.htm)
 
 ### Validation
 
