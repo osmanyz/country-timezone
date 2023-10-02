@@ -7,10 +7,11 @@ Please don't hesitate to ask for a change if you notice incorrect information.
 
 ### How I collected all the information;
 
-- Checked timezones here [https://www.php.net/manual/en/timezones.php](https://www.php.net/manual/en/timezones.php)
+- Checked timezones here [https://www.php.net/manual/en/timezones.php](https://www.php.net/manual/en/timezones.php) and [https://www.localeplanet.com/icu/en-KY/timezone.html](https://www.localeplanet.com/icu/en-KY/timezone.html)
 - Checked countries code here [https://www.iban.com/country-codes](https://www.iban.com/country-codes)
 - Checked phone codes here [https://en.wikipedia.org/wiki/List_of_country_calling_codes](https://en.wikipedia.org/wiki/List_of_country_calling_codes)
 - Checked locale codes here [https://www.localeplanet.com/icu/](https://www.localeplanet.com/icu/)
+- And [https://www.iso.org/obp/ui/#iso:pub:PUB500001:en](https://www.iso.org/obp/ui/#iso:pub:PUB500001:en) for confirming some specifics data
 
 ### Validation
 

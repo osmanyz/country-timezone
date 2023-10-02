@@ -428,6 +428,31 @@
     ]
   },
   {
+    "code": "KH",
+    "name": "Cambodia",
+    "locale": "km_KH",
+    "language": "kh",
+    "currency": "KHR",
+    "phoneCode": "+855",
+    "timezones": [
+      {"name": "Asia/Bangkok"},
+      {"name": "Asia/Phnom_Penh"}
+    ]
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "locale": "fr_CM",
+    "language": "cm",
+    "currency": "XAF",
+    "phoneCode": "+237",
+    "timezones": [
+      {"name": "Africa/Douala"},
+      {"name": "Africa/Lagos"}
+    ]
+  },
+  {
+    "code": "CA",
     "name": "Canada",
     "locale": "en_CA",
     "language": "en",
@@ -465,27 +490,40 @@
     ]
   },
   {
-    "name": "Switzerland",
-    "locale": "de_CH",
-    "language": "de",
-    "currency": "CHF",
-    "phoneCode": "+423",
+    "code": "CV",
+    "name": "Cape Verde",
+    "locale": "kea_CV",
+    "language": "pt",
+    "currency": "CVE",
+    "phoneCode": "+238",
     "timezones": [
-      {"name": "Europe/Zurich"}
+      {"name": "Atlantic/Cape_Verde"}
     ]
   },
   {
-    "name": "Croatia",
-    "locale": "hr_HR",
-    "language": "hr",
-    "currency": "HRK",
-    "phoneCode": "+385",
+    "code": "BQ",
+    "name": "Caribbean Netherlands",
+    "locale": "nl_BQ",
+    "language": "nl",
+    "currency": "USD",
+    "phoneCode": "+599",
     "timezones": [
-      {"name": "Europe/Belgrade"},
-      {"name": "Europe/Zagreb"}
+      {"name": "America/Kralendijk"}
     ]
   },
   {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "locale": "en_KY",
+    "language": "en",
+    "currency": "KYD",
+    "phoneCode": "+1-345",
+    "timezones": [
+      {"name": "America/Cayman"}
+    ]
+  },
+  {
+    "code": "CF",
     "name": "Central African Republic",
     "locale": "fr_CF",
     "language": "cf",
@@ -497,27 +535,18 @@
     ]
   },
   {
-    "name": "China",
-    "locale": "zh",
-    "language": "zh",
-    "currency": "CNY",
-    "phoneCode": "+86",
+    "code": "TD",
+    "name": "Chad",
+    "locale": "fr_TD",
+    "language": "fr",
+    "currency": "XAF",
+    "phoneCode": "+235",
     "timezones": [
-      {"name": "Asia/Shanghai"},
-      {"name": "Asia/Urumqi"}
+      {"name": "Africa/Ndjamena"}
     ]
   },
   {
-    "name": "Czech (Czech Republic)",
-    "locale": "cs_CZ",
-    "language": "cz",
-    "currency": "CZK",
-    "phoneCode": "+420",
-    "timezones": [
-      {"name": "Europe/Prague"}
-    ]
-  },
-  {
+    "code": "CL",
     "name": "Chile",
     "locale": "es_CL",
     "language": "cl",
@@ -530,17 +559,41 @@
     ]
   },
   {
-    "name": "Cameroon",
-    "locale": "fr_CM",
-    "language": "cm",
-    "currency": "XAF",
-    "phoneCode": "+237",
+    "code": "CN",
+    "name": "China",
+    "locale": "zh",
+    "language": "zh",
+    "currency": "CNY",
+    "phoneCode": "+86",
     "timezones": [
-      {"name": "Africa/Douala"},
-      {"name": "Africa/Lagos"}
+      {"name": "Asia/Shanghai"},
+      {"name": "Asia/Urumqi"}
     ]
   },
   {
+    "code": "CX",
+    "name": "Christmas Island",
+    "locale": "en_CX",
+    "language": "en",
+    "currency": "AUD",
+    "phoneCode": "+61",
+    "timezones": [
+      {"name": "Indian/Christmas"}
+    ]
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "locale": "en_CC",
+    "language": "en",
+    "currency": "AUD",
+    "phoneCode": "+61",
+    "timezones": [
+      {"name": "Indian/Cocos"}
+    ]
+  },
+  {
+    "code": "CO",
     "name": "Colombia",
     "locale": "es_CO",
     "language": "co",
@@ -551,38 +604,31 @@
     ]
   },
   {
-    "name": "Costa Rica",
-    "locale": "es_CR",
-    "language": "cr",
-    "currency": "CRC",
-    "phoneCode": "+506",
+    "code": "KM",
+    "name": "Comoros",
+    "locale": "fr_KM",
+    "language": "fr",
+    "currency": "KMF",
+    "phoneCode": "+269",
     "timezones": [
-      {"name": "America/Costa_Rica"}
+      {"name": "Indian/Comoro"}
     ]
   },
   {
-    "name": "Cuba",
-    "locale": "es_CU",
-    "language": "cu",
-    "currency": "CUP",
-    "phoneCode": "+53",
+    "code": "CG",
+    "name": "Republic of the Congo - Brazzaville",
+    "locale": "fr_CG",
+    "language": "cg",
+    "currency": "XAF",
+    "phoneCode": "+242",
     "timezones": [
-      {"name": "America/Havana"}
+      {"name": "Africa/Brazzaville"},
+      {"name": "Africa/Lagos"}
     ]
   },
   {
-    "name": "Cambodia",
-    "locale": "km_KH",
-    "language": "kh",
-    "currency": "KHR",
-    "phoneCode": "+855",
-    "timezones": [
-      {"name": "Asia/Bangkok"},
-      {"name": "Asia/Phnom_Penh"}
-    ]
-  },
-  {
-    "name": "Democratic Republic of the Congo",
+    "code": "CD",
+    "name": "Democratic Republic of the Congo - Kinshasa",
     "locale": "fr_CD",
     "language": "cd",
     "currency": "CDF",
@@ -595,17 +641,96 @@
     ]
   },
   {
-    "name": "Republic of the Congo",
-    "locale": "fr_CG",
-    "language": "cg",
-    "currency": "XAF",
-    "phoneCode": "+242",
+    "code": "CK",
+    "name": "Cook Islands",
+    "locale": "en_CK",
+    "language": "en",
+    "currency": "NZD",
+    "phoneCode": "+682",
     "timezones": [
-      {"name": "Africa/Brazzaville"},
-      {"name": "Africa/Lagos"}
+      {"name": "Pacific/Rarotonga"}
     ]
   },
   {
+    "code": "CR",
+    "name": "Costa Rica",
+    "locale": "es_CR",
+    "language": "cr",
+    "currency": "CRC",
+    "phoneCode": "+506",
+    "timezones": [
+      {"name": "America/Costa_Rica"}
+    ]
+  },
+  {
+    "code": "CI",
+    "name": "Côte d’Ivoire",
+    "locale": "fr_CI",
+    "language": "fr",
+    "currency": "XOF",
+    "phoneCode": "+225",
+    "timezones": [
+      {"name": "Africa/Abidjan"}
+    ]
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "locale": "hr_HR",
+    "language": "hr",
+    "currency": "HRK",
+    "phoneCode": "+385",
+    "timezones": [
+      {"name": "Europe/Belgrade"},
+      {"name": "Europe/Zagreb"}
+    ]
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "locale": "es_CU",
+    "language": "cu",
+    "currency": "CUP",
+    "phoneCode": "+53",
+    "timezones": [
+      {"name": "America/Havana"}
+    ]
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "locale": "nl_CW",
+    "language": "nl",
+    "currency": "ANG",
+    "phoneCode": "+599",
+    "timezones": [
+      {"name": "America/Curacao"}
+    ]
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "locale": "en_CY",
+    "language": "en",
+    "currency": "EUR",
+    "phoneCode": "+357",
+    "timezones": [
+      {"name": "Asia/Nicosia"}
+    ]
+  },
+  {
+    "code": "CZ",
+    "name": "Czech (Czech Republic)",
+    "locale": "cs_CZ",
+    "language": "cz",
+    "currency": "CZK",
+    "phoneCode": "+420",
+    "timezones": [
+      {"name": "Europe/Prague"}
+    ]
+  },
+  {
+    "code": "DO",
     "name": "Dominican Republic",
     "locale": "es_DO",
     "language": "do",
@@ -628,6 +753,7 @@
     ]
   },
   {
+    "code": "DK",
     "name": "Denmark",
     "locale": "da_DK",
     "language": "dk",
@@ -698,6 +824,16 @@
     "phoneCode": "+33",
     "timezones": [
       {"name": "Europe/Paris"}
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "locale": "de_CH",
+    "language": "de",
+    "currency": "CHF",
+    "phoneCode": "+423",
+    "timezones": [
+      {"name": "Europe/Zurich"}
     ]
   },
   {
