@@ -616,7 +616,7 @@
   },
   {
     "code": "CG",
-    "name": "Republic of the Congo - Brazzaville",
+    "name": "Republic of the Congo (Brazzaville)",
     "locale": "fr_CG",
     "language": "cg",
     "currency": "XAF",
@@ -628,7 +628,7 @@
   },
   {
     "code": "CD",
-    "name": "Democratic Republic of the Congo - Kinshasa",
+    "name": "Democratic Republic of the Congo (Kinshasa)",
     "locale": "fr_CD",
     "language": "cd",
     "currency": "CDF",
@@ -730,29 +730,6 @@
     ]
   },
   {
-    "code": "DO",
-    "name": "Dominican Republic",
-    "locale": "es_DO",
-    "language": "do",
-    "currency": "DOP",
-    "phoneCode": "+1",
-    "timezones": [
-      {"name": "America/Santo_Domingo"}
-    ]
-  },
-  {
-    "name": "Germany",
-    "locale": "de_DE",
-    "language": "de",
-    "currency": "EUR",
-    "phoneCode": "+49",
-    "timezones": [
-      {"name": "Europe/Berlin"},
-      {"name": "Europe/Busingen"},
-      {"name": "Europe/Zurich"}
-    ]
-  },
-  {
     "code": "DK",
     "name": "Denmark",
     "locale": "da_DK",
@@ -765,6 +742,40 @@
     ]
   },
   {
+    "code": "DJ",
+    "name": "Djibouti",
+    "locale": "fr_DJ",
+    "language": "fr",
+    "currency": "DJF",
+    "phoneCode": "+253",
+    "timezones": [
+      {"name": "Africa/Djibouti"}
+    ]
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "locale": "en_DM",
+    "language": "en",
+    "currency": "XCD",
+    "phoneCode": "+1-767",
+    "timezones": [
+      {"name": "America/Dominica"}
+    ]
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "locale": "es_DO",
+    "language": "es",
+    "currency": "DOP",
+    "phoneCode": "+1",
+    "timezones": [
+      {"name": "America/Santo_Domingo"}
+    ]
+  },
+  {
+    "code": "EC",
     "name": "Ecuador",
     "locale": "es_EC",
     "language": "es",
@@ -776,16 +787,7 @@
     ]
   },
   {
-    "name": "Estonia",
-    "locale": "et_EE",
-    "language": "ee",
-    "currency": "EUR",
-    "phoneCode": "+372",
-    "timezones": [
-      {"name": "Europe/Tallinn"}
-    ]
-  },
-  {
+    "code": "EG",
     "name": "Egypt",
     "locale": "ar_EG",
     "language": "eg",
@@ -796,6 +798,63 @@
     ]
   },
   {
+    "code": "SV",
+    "name": "El Salvador",
+    "locale": "es_SV",
+    "language": "es",
+    "currency": "USD",
+    "phoneCode": "+503",
+    "timezones": [
+      {"name": "America/El_Salvador"}
+    ]
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "locale": "es_GQ",
+    "language": "es",
+    "currency": "XAF",
+    "phoneCode": "+240",
+    "timezones": [
+      {"name": "Africa/Malabo"}
+    ]
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "locale": "en_ER",
+    "language": "en",
+    "currency": "ERN",
+    "phoneCode": "+291",
+    "timezones": [
+      {"name": "Africa/Asmara"},
+      {"name": "Africa/Asmera"}
+    ]
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "locale": "et_EE",
+    "language": "ee",
+    "currency": "EUR",
+    "phoneCode": "+372",
+    "timezones": [
+      {"name": "Europe/Tallinn"}
+    ]
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "locale": "en_SZ",
+    "language": "en",
+    "currency": "SZL",
+    "phoneCode": "+268",
+    "timezones": [
+      {"name": "Africa/Mbabane"}
+    ]
+  },
+  {
+    "code": "ET",
     "name": "Ethiopia",
     "locale": "om_ET",
     "language": "et",
@@ -887,6 +946,18 @@
     "phoneCode": "+82",
     "timezones": [
       {"name": "Asia/Seoul"}
+    ]
+  },
+  {
+    "name": "Germany",
+    "locale": "de_DE",
+    "language": "de",
+    "currency": "EUR",
+    "phoneCode": "+49",
+    "timezones": [
+      {"name": "Europe/Berlin"},
+      {"name": "Europe/Busingen"},
+      {"name": "Europe/Zurich"}
     ]
   },
   {
