@@ -65,6 +65,7 @@
                       <thead>
                       <tr>
                         <th class="w-1">No.</th>
+                        <!-- <th>Code</th> -->
                         <th>Country</th>
                         <th>Currency Code</th>
                         <th>Phone Code</th>
@@ -124,6 +125,12 @@
         tdNoSpan.innerText = index + 1;
         tdNo.appendChild(tdNoSpan);
         tr.appendChild(tdNo);
+        /*
+        // code
+        var tdCode = document.createElement("td");
+        tdCode.innerText = country.code;
+        tr.appendChild(tdCode);
+        */
         // name
         var tdName = document.createElement("td");
         tdName.innerText = country.name;

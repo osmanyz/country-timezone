@@ -1136,69 +1136,29 @@
     ]
   },
   {
-    "name": "Switzerland",
-    "locale": "de_CH",
-    "language": "de",
-    "currency": "CHF",
-    "phoneCode": "+423",
+    "code": "HT",
+    "name": "Haiti",
+    "locale": "fr_HT",
+    "language": "fr",
+    "currency": "HTG",
+    "phoneCode": "+852",
     "timezones": [
-      {"name": "Europe/Zurich"}
+      {"name": "Asia/Hong_Kong"}
     ]
   },
   {
-    "name": "Spain",
-    "locale": "eu_ES",
-    "language": "es",
-    "currency": "EUR",
-    "phoneCode": "+34",
+    "code": "HN",
+    "name": "Honduras",
+    "locale": "es_HN",
+    "language": "hn",
+    "currency": "HNL",
+    "phoneCode": "+509",
     "timezones": [
-      {"name": "Africa/Ceuta"},
-      {"name": "Atlantic/Canary"},
-      {"name": "Europe/Madrid"}
+      {"name": "America/Port-au-Prince"}
     ]
   },
   {
-    "name": "Sudan",
-    "locale": "ar_SD",
-    "language": "sd",
-    "currency": "SDG",
-    "phoneCode": "+249",
-    "timezones": [
-      {"name": "Africa/Khartoum"}
-    ]
-  },
-  {
-    "name": "Sweden",
-    "locale": "sv_SE",
-    "language": "se",
-    "currency": "SEK",
-    "phoneCode": "+46",
-    "timezones": [
-      {"name": "Europe/Berlin"},
-      {"name": "Europe/Stockholm"}
-    ]
-  },
-  {
-    "name": "Singapore",
-    "locale": "en_SG",
-    "language": "sg",
-    "currency": "SGD",
-    "phoneCode": "+65",
-    "timezones": [
-      {"name": "Asia/Singapore"}
-    ]
-  },
-  {
-    "name": "South Korea",
-    "locale": "ko_KR",
-    "language": "kr",
-    "currency": "KRW",
-    "phoneCode": "+82",
-    "timezones": [
-      {"name": "Asia/Seoul"}
-    ]
-  },
-  {
+    "code": "HK",
     "name": "Hong Kong",
     "locale": "en_HK",
     "language": "hk",
@@ -1209,16 +1169,7 @@
     ]
   },
   {
-    "name": "Honduras",
-    "locale": "es_HN",
-    "language": "hn",
-    "currency": "HNL",
-    "phoneCode": "+504",
-    "timezones": [
-      {"name": "America/Tegucigalpa"}
-    ]
-  },
-  {
+    "code": "HU",
     "name": "Hungary",
     "locale": "hu_HU",
     "language": "hu",
@@ -1229,6 +1180,7 @@
     ]
   },
   {
+    "code": "IS",
     "name": "Iceland",
     "locale": "is_IS",
     "language": "is",
@@ -1240,6 +1192,20 @@
     ]
   },
   {
+    "code": "IN",
+    "name": "India",
+    "locale": "en_IN",
+    "language": "in",
+    "currency": "INR",
+    "phoneCode": "+91",
+    "timezones": [
+      {"name": "Asia/Calcutta"},
+      {"name": "Asia/Colombo"},
+      {"name": "Asia/Kolkata"}
+    ]
+  },
+  {
+    "code": "ID",
     "name": "Indonesia",
     "locale": "id_ID",
     "language": "id",
@@ -1253,46 +1219,7 @@
     ]
   },
   {
-    "name": "Ireland",
-    "locale": "en_IE",
-    "language": "ie",
-    "currency": "EUR",
-    "phoneCode": "+353",
-    "timezones": [
-      {"name": "Europe/Dublin"}
-    ]
-  },
-  {
-    "name": "Israel",
-    "locale": "en_IL",
-    "language": "il",
-    "currency": "ILS",
-    "phoneCode": "+972",
-    "timezones": [
-      {"name": "Asia/Jerusalem"}
-    ]
-  },
-  {
-    "name": "India",
-    "locale": "en_IN",
-    "language": "in",
-    "currency": "INR",
-    "phoneCode": "+91",
-    "timezones": [
-      {"name": "Asia/Kolkata"}
-    ]
-  },
-  {
-    "name": "Iraq",
-    "locale": "ar_IQ",
-    "language": "iq",
-    "currency": "IQD",
-    "phoneCode": "+964",
-    "timezones": [
-      {"name": "Asia/Baghdad"}
-    ]
-  },
-  {
+    "code": "IR",
     "name": "Iran",
     "locale": "fa_IR",
     "language": "ir",
@@ -1303,6 +1230,51 @@
     ]
   },
   {
+    "code": "IQ",
+    "name": "Iraq",
+    "locale": "ar_IQ",
+    "language": "iq",
+    "currency": "IQD",
+    "phoneCode": "+964",
+    "timezones": [
+      {"name": "Asia/Baghdad"}
+    ]
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "locale": "en_IE",
+    "language": "ie",
+    "currency": "EUR",
+    "phoneCode": "+353",
+    "timezones": [
+      {"name": "Europe/Dublin"}
+    ]
+  },
+  {
+    "code": "IM",
+    "name": "Isle of Man",
+    "locale": "en_IM",
+    "language": "en",
+    "currency": "GBP",
+    "phoneCode": "+44-1624",
+    "timezones": [
+      {"name": "Europe/Isle_of_Man"}
+    ]
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "locale": "en_IL",
+    "language": "il",
+    "currency": "ILS",
+    "phoneCode": "+972",
+    "timezones": [
+      {"name": "Asia/Jerusalem"}
+    ]
+  },
+  {
+    "code": "IT",
     "name": "Italy",
     "locale": "it_IT",
     "language": "it",
@@ -1313,16 +1285,18 @@
     ]
   },
   {
-    "name": "Jordan",
-    "locale": "ar_JO",
-    "language": "jo",
-    "currency": "JOD",
-    "phoneCode": "+962",
+    "code": "JM",
+    "name": "Jamaica",
+    "locale": "en_JM",
+    "language": "en",
+    "currency": "JMD",
+    "phoneCode": "+1-876",
     "timezones": [
-      {"name": "Asia/Amman"}
+      {"name": "America/Jamaica"}
     ]
   },
   {
+    "code": "JP",
     "name": "Japan",
     "locale": "ja_JP",
     "language": "jp",
@@ -1333,37 +1307,29 @@
     ]
   },
   {
-    "name": "Kuwait",
-    "locale": "ar_KW",
-    "language": "kw",
-    "currency": "KWD",
-    "phoneCode": "+965",
+    "code": "JE",
+    "name": "Jersey",
+    "locale": "en_JE",
+    "language": "en",
+    "currency": "GBP",
+    "phoneCode": "+44-1534",
     "timezones": [
-      {"name": "Asia/Kuwait"},
-      {"name": "Asia/Riyadh"}
+      {"name": "Europe/Jersey"}
     ]
   },
   {
-    "name": "Kenya",
-    "locale": "en_KE",
-    "language": "ke",
-    "currency": "KES",
-    "phoneCode": "+254",
+    "code": "JO",
+    "name": "Jordan",
+    "locale": "ar_JO",
+    "language": "jo",
+    "currency": "JOD",
+    "phoneCode": "+962",
     "timezones": [
-      {"name": "Africa/Nairobi"}
+      {"name": "Asia/Amman"}
     ]
   },
   {
-    "name": "Kyrgyzstan",
-    "locale": "ky_KG",
-    "language": "kg",
-    "currency": "KGS",
-    "phoneCode": "+996",
-    "timezones": [
-      {"name": "Asia/Bishkek"}
-    ]
-  },
-  {
+    "code": "KZ",
     "name": "Kazakhstan",
     "locale": "kk_Cyrl_KZ",
     "language": "kz",
@@ -1380,6 +1346,52 @@
     ]
   },
   {
+    "code": "KE",
+    "name": "Kenya",
+    "locale": "en_KE",
+    "language": "ke",
+    "currency": "KES",
+    "phoneCode": "+254",
+    "timezones": [
+      {"name": "Africa/Nairobi"}
+    ]
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "locale": "en_KI",
+    "language": "en",
+    "currency": "AUD",
+    "phoneCode": "+686",
+    "timezones": [
+      {"name": "Pacific/Tarawa"}
+    ]
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "locale": "ar_KW",
+    "language": "kw",
+    "currency": "KWD",
+    "phoneCode": "+965",
+    "timezones": [
+      {"name": "Asia/Kuwait"},
+      {"name": "Asia/Riyadh"}
+    ]
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "locale": "ky_KG",
+    "language": "kg",
+    "currency": "KGS",
+    "phoneCode": "+996",
+    "timezones": [
+      {"name": "Asia/Bishkek"}
+    ]
+  },
+  {
+    "code": "LA",
     "name": "Laos",
     "locale": "lo_LA",
     "language": "la",
@@ -1391,6 +1403,18 @@
     ]
   },
   {
+    "code": "LV",
+    "name": "Latvia",
+    "locale": "lv_LV",
+    "language": "lv",
+    "currency": "EUR",
+    "phoneCode": "+371",
+    "timezones": [
+      {"name": "Europe/Riga"}
+    ]
+  },
+  {
+    "code": "LB",
     "name": "Lebanon",
     "locale": "ar_LB",
     "language": "lb",
@@ -1401,6 +1425,51 @@
     ]
   },
   {
+    "code": "LS",
+    "name": "Lesotho",
+    "locale": "en_LS",
+    "language": "en",
+    "currency": "ZAR",
+    "phoneCode": "+266",
+    "timezones": [
+      {"name": "Africa/Maseru"}
+    ]
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "locale": "en_LR",
+    "language": "en",
+    "currency": "LRD",
+    "phoneCode": "+231",
+    "timezones": [
+      {"name": "Africa/Monrovia"}
+    ]
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "locale": "ar_LY",
+    "language": "ly",
+    "currency": "LYD",
+    "phoneCode": "+218",
+    "timezones": [
+      {"name": "Africa/Tripoli"}
+    ]
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "locale": "de_LI",
+    "language": "de",
+    "currency": "CHF",
+    "phoneCode": "+423",
+    "timezones": [
+      {"name": "Europe/Vaduz"}
+    ]
+  },
+  {
+    "code": "LT",
     "name": "Lithuania",
     "locale": "lt_LT",
     "language": "lt",
@@ -1411,6 +1480,7 @@
     ]
   },
   {
+    "code": "LU",
     "name": "Luxembourg",
     "locale": "de_LU",
     "language": "lu",
@@ -1422,100 +1492,41 @@
     ]
   },
   {
-    "name": "Libya",
-    "locale": "ar_LY",
-    "language": "ly",
-    "currency": "LYD",
-    "phoneCode": "+218",
+    "code": "MO",
+    "name": "Macao SAR China",
+    "locale": "en_MO",
+    "language": "en",
+    "currency": "MOP",
+    "phoneCode": "+853",
     "timezones": [
-      {"name": "Africa/Tripoli"}
+      {"name": "Asia/Macao"},
+      {"name": "Asia/Macau"}
     ]
   },
   {
-    "name": "Sri Lanka",
-    "locale": "si_LK",
-    "language": "lk",
-    "currency": "LKR",
-    "phoneCode": "+94",
+    "code": "MG",
+    "name": "Madagascar",
+    "locale": "fr_MG",
+    "language": "fr",
+    "currency": "MGA",
+    "phoneCode": "+261",
     "timezones": [
-      {"name": "Asia/Colombo"}
+      {"name": "Indian/Antananarivo"}
     ]
   },
   {
-    "name": "South Africa",
-    "locale": "en_ZA",
-    "language": "za",
-    "currency": "ZAR",
-    "phoneCode": "+27",
+    "code": "MW",
+    "name": "Malawi",
+    "locale": "en_MW",
+    "language": "en",
+    "currency": "MWK",
+    "phoneCode": "+265",
     "timezones": [
-      {"name": "Africa/Johannesburg"}
+      {"name": "Africa/Blantyre"}
     ]
   },
   {
-    "name": "Morocco",
-    "locale": "ar_MA",
-    "language": "ma",
-    "currency": "MAD",
-    "phoneCode": "+212",
-    "timezones": [
-      {"name": "Africa/Casablanca"}
-    ]
-  },
-  {
-    "name": "Moldova",
-    "locale": "ro_MD",
-    "language": "md",
-    "currency": "MDL",
-    "phoneCode": "+373",
-    "timezones": [
-      {"name": "Europe/Chisinau"}
-    ]
-  },
-  {
-    "name": "Montenegro",
-    "locale": "sr_Latn_ME",
-    "language": "me",
-    "currency": "EUR",
-    "phoneCode": "+382",
-    "timezones": [
-      {"name": "Europe/Belgrade"},
-      {"name": "Europe/Podgorica"}
-    ]
-  },
-  {
-    "name": "Myanmar",
-    "locale": "my_MM",
-    "language": "me",
-    "currency": "MMK",
-    "phoneCode": "+95",
-    "timezones": [
-      {"name": "Asia/Rangoon"},
-      {"name": "Asia/Yangon"}
-    ]
-  },
-  {
-    "name": "Mongolia",
-    "locale": "mn_MN",
-    "language": "mn",
-    "currency": "MNT",
-    "phoneCode": "+976",
-    "timezones": [
-      {"name": "Asia/Choibalsan"},
-      {"name": "Asia/Hovd"},
-      {"name": "Asia/Ulaanbaatar"}
-    ]
-  },
-  {
-    "name": "Malta",
-    "locale": "en_MT",
-    "language": "mt",
-    "currency": "EUR",
-    "phoneCode": "+356",
-    "timezones": [
-      {"name": "Europe/Malta"}
-    ]
-  },
-  {
+    "code": "MY",
     "name": "Malaysia",
     "locale": "ms_MY",
     "language": "my",
@@ -1528,6 +1539,7 @@
     ]
   },
   {
+    "code": "MV",
     "name": "Maldives",
     "locale": "dv_MV",
     "language": "mv",
@@ -1538,6 +1550,75 @@
     ]
   },
   {
+    "code": "ML",
+    "name": "Mali",
+    "locale": "fr_ML",
+    "language": "fr",
+    "currency": "XOF",
+    "phoneCode": "+223",
+    "timezones": [
+      {"name": "Africa/Bamako"},
+      {"name": "Africa/Timbuktu"}
+    ]
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "locale": "en_MT",
+    "language": "mt",
+    "currency": "EUR",
+    "phoneCode": "+356",
+    "timezones": [
+      {"name": "Europe/Malta"}
+    ]
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "locale": "en_MH",
+    "language": "en",
+    "currency": "USD",
+    "phoneCode": "+692",
+    "timezones": [
+      {"name": "Pacific/Kwajalein"},
+      {"name": "Pacific/Majuro"}
+    ]
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "locale": "fr_MQ",
+    "language": "fr",
+    "currency": "EUR",
+    "phoneCode": "+596",
+    "timezones": [
+      {"name": "America/Martinique"}
+    ]
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "locale": "en_MU",
+    "language": "en",
+    "currency": "MUR",
+    "phoneCode": "+230",
+    "timezones": [
+      {"name": "Indian/Mauritius"}
+    ]
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte",
+    "locale": "fr_YT",
+    "language": "fr",
+    "currency": "EUR",
+    "phoneCode": "+262",
+    "timezones": [
+      {"name": "Indian/Mayotte"}
+    ]
+  },
+  {
+    "code": "MX",
     "name": "Mexico",
     "locale": "es_MX",
     "language": "mx",
@@ -1556,6 +1637,109 @@
       {"name": "America/Monterrey"},
       {"name": "America/Ojinaga"},
       {"name": "America/Tijuana"}
+    ]
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia",
+    "locale": "en_FM",
+    "language": "en",
+    "currency": "USD",
+    "phoneCode": "+691",
+    "timezones": [
+      {"name": "Pacific/Kosrae"}
+    ]
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "locale": "ro_MD",
+    "language": "md",
+    "currency": "MDL",
+    "phoneCode": "+373",
+    "timezones": [
+      {"name": "Europe/Chisinau"}
+    ]
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "locale": "fr_MC",
+    "language": "fr",
+    "currency": "EUR",
+    "phoneCode": "+377",
+    "timezones": [
+      {"name": "Europe/Monaco"}
+    ]
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "locale": "mn_MN",
+    "language": "mn",
+    "currency": "MNT",
+    "phoneCode": "+976",
+    "timezones": [
+      {"name": "Asia/Choibalsan"},
+      {"name": "Asia/Hovd"},
+      {"name": "Asia/Ulaanbaatar"}
+    ]
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "locale": "sr_Latn_ME",
+    "language": "me",
+    "currency": "EUR",
+    "phoneCode": "+382",
+    "timezones": [
+      {"name": "Europe/Belgrade"},
+      {"name": "Europe/Podgorica"}
+    ]
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "locale": "en_MS",
+    "language": "en",
+    "currency": "XCD",
+    "phoneCode": "+1-664",
+    "timezones": [
+      {"name": "America/Montserrat"}
+    ]
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "locale": "ar_MA",
+    "language": "ma",
+    "currency": "MAD",
+    "phoneCode": "+212",
+    "timezones": [
+      {"name": "Africa/Casablanca"}
+    ]
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "locale": "mgh_MZ",
+    "language": "mgh",
+    "currency": "MZN",
+    "phoneCode": "+258",
+    "timezones": [
+      {"name": "Africa/Maputo"}
+    ]
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar (Burma)",
+    "locale": "my_MM",
+    "language": "me",
+    "currency": "MMK",
+    "phoneCode": "+95",
+    "timezones": [
+      {"name": "Asia/Rangoon"},
+      {"name": "Asia/Yangon"}
     ]
   },
   {
@@ -1713,6 +1897,90 @@
     "phoneCode": "+40",
     "timezones": [
       {"name": "Europe/Bucharest"}
+    ]
+  },
+  {
+    "code": "",
+    "name": "Switzerland",
+    "locale": "de_CH",
+    "language": "de",
+    "currency": "CHF",
+    "phoneCode": "+41",
+    "timezones": [
+      {"name": "Europe/Zurich"}
+    ]
+  },
+  {
+    "name": "Spain",
+    "locale": "eu_ES",
+    "language": "es",
+    "currency": "EUR",
+    "phoneCode": "+34",
+    "timezones": [
+      {"name": "Africa/Ceuta"},
+      {"name": "Atlantic/Canary"},
+      {"name": "Europe/Madrid"}
+    ]
+  },
+  {
+    "name": "Sudan",
+    "locale": "ar_SD",
+    "language": "sd",
+    "currency": "SDG",
+    "phoneCode": "+249",
+    "timezones": [
+      {"name": "Africa/Khartoum"}
+    ]
+  },
+  {
+    "name": "Sweden",
+    "locale": "sv_SE",
+    "language": "se",
+    "currency": "SEK",
+    "phoneCode": "+46",
+    "timezones": [
+      {"name": "Europe/Berlin"},
+      {"name": "Europe/Stockholm"}
+    ]
+  },
+  {
+    "name": "Singapore",
+    "locale": "en_SG",
+    "language": "sg",
+    "currency": "SGD",
+    "phoneCode": "+65",
+    "timezones": [
+      {"name": "Asia/Singapore"}
+    ]
+  },
+  {
+    "name": "South Korea",
+    "locale": "ko_KR",
+    "language": "kr",
+    "currency": "KRW",
+    "phoneCode": "+82",
+    "timezones": [
+      {"name": "Asia/Seoul"}
+    ]
+  }, 
+  {
+    "name": "Sri Lanka",
+    "locale": "si_LK",
+    "language": "lk",
+    "currency": "LKR",
+    "phoneCode": "+94",
+    "timezones": [
+      {"name": "Asia/Colombo"}
+    ]
+  },
+  {
+    "name": "South Africa",
+    "locale": "en_ZA",
+    "language": "za",
+    "currency": "ZAR",
+    "phoneCode": "+27",
+    "timezones": [
+      {"name": "Africa/Johannesburg"}
     ]
   },
   {
