@@ -757,7 +757,7 @@
     "locale": "es_DO",
     "language": "es",
     "currency": "DOP",
-    "phoneCode": "+1",
+    "phoneCode": "+1-809",
     "timezones": [
       {"name": "America/Santo_Domingo"}
     ]
