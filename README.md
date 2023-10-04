@@ -15,7 +15,7 @@ Please don't hesitate to ask for a change if you notice incorrect information.
 
 ### Validation
 
-[JSON](https://github.com/osmanyz/countries-and-timezones/blob/main/countries-timezones.json) is validated and it passed all the validations. You can verify this yourself. 
+[JSON](https://github.com/osmanyz/country-timezone/blob/main/data/country.json) is validated and it passed all the validations. You can verify this yourself. 
 
 - https://www.toptal.com/developers/json-formatter
 - https://jsonformatter.curiousconcept.com
