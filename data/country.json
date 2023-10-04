@@ -321,18 +321,6 @@
     ]
   },
   {
-    "code": "BV",
-    "name": "Bouvet Island",
-    "locale": "nn_NO",
-    "language": "en",
-    "currency": "NOK",
-    "phoneCode": "+55",
-    "timezones": [
-      {"name": "Europe/Berlin"},
-      {"name": "Europe/Oslo"}
-    ]
-  },
-  {
     "code": "BR",
     "name": "Brazil",
     "locale": "pt_BR",

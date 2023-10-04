@@ -1,6 +1,6 @@
 # Countries and Timezones
 
-There are 245 countries with time zones. All added one by one. And it has been checked and approved.
+There are 244 countries with time zones. All added one by one. And it has been checked and approved.
 
 Please don't hesitate to ask for a change if you notice incorrect information. 
 
