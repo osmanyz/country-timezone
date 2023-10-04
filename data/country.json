@@ -866,6 +866,41 @@
     ]
   },
   {
+    "code": "FK",
+    "name": "Falkland Islands",
+    "locale": "en_FK",
+    "language": "en",
+    "currency": "FKP",
+    "phoneCode": "+500",
+    "timezones": [
+      {"name": "Atlantic/Stanley"}
+    ]
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "locale": "fo_FO",
+    "language": "fo",
+    "currency": "DKK",
+    "phoneCode": "+298",
+    "timezones": [
+      {"name": "Atlantic/Faeroe"},
+      {"name": "Atlantic/Faroe"}
+    ]
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "locale": "en_FJ",
+    "language": "en",
+    "currency": "FJD",
+    "phoneCode": "+679",
+    "timezones": [
+      {"name": "Pacific/Fiji"}
+    ]
+  },
+  {
+    "code": "FI",
     "name": "Finland",
     "locale": "fi_FI",
     "language": "fi",
@@ -876,6 +911,7 @@
     ]
   },
   {
+    "code": "FR",
     "name": "France",
     "locale": "fr_FR",
     "language": "fr",
@@ -883,6 +919,220 @@
     "phoneCode": "+33",
     "timezones": [
       {"name": "Europe/Paris"}
+    ]
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "locale": "fr_GF",
+    "language": "fr",
+    "currency": "EUR",
+    "phoneCode": "+594",
+    "timezones": [
+      {"name": "America/Cayenne"}
+    ]
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "locale": "fr_PF",
+    "language": "fr",
+    "currency": "XPF",
+    "phoneCode": "+689",
+    "timezones": [
+      {"name": "Pacific/Tahiti"}
+    ]
+  },
+  {
+    "code": "TF",
+    "name": "French Southern Territories",
+    "locale": "fr_TF",
+    "language": "fr",
+    "currency": "EUR",
+    "phoneCode": "+262",
+    "timezones": [
+      {"name": "Indian/Kerguelen"}
+    ]
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "locale": "fr_GA",
+    "language": "fr",
+    "currency": "XAF",
+    "phoneCode": "+241",
+    "timezones": [
+      {"name": "Africa/Libreville"}
+    ]
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "locale": "en_GM",
+    "language": "en",
+    "currency": "GMD",
+    "phoneCode": "+220",
+    "timezones": [
+      {"name": "Africa/Banjul"}
+    ]
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "locale": "ka_GE",
+    "language": "ge",
+    "currency": "GEL",
+    "phoneCode": "+995",
+    "timezones": [
+      {"name": "Asia/Tbilisi"}
+    ]
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "locale": "de_DE",
+    "language": "de",
+    "currency": "EUR",
+    "phoneCode": "+49",
+    "timezones": [
+      {"name": "Europe/Berlin"},
+      {"name": "Europe/Busingen"},
+      {"name": "Europe/Zurich"}
+    ]
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "locale": "ak_GH",
+    "language": "gh",
+    "currency": "GHS",
+    "phoneCode": "+233",
+    "timezones": [
+      {"name": "Africa/Abidjan"},
+      {"name": "Africa/Accra"}
+    ]
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "locale": "en_GI",
+    "language": "en",
+    "currency": "GIP",
+    "phoneCode": "+350",
+    "timezones": [
+      {"name": "Europe/Gibraltar"}
+    ]
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "locale": "el_GR",
+    "language": "gr",
+    "currency": "EUR",
+    "phoneCode": "+30",
+    "timezones": [
+      {"name": "Europe/Athens"}
+    ]
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "locale": "kl_GL",
+    "language": "kl",
+    "currency": "DKK",
+    "phoneCode": "+299",
+    "timezones": [
+      {"name": "America/Godthab"}
+    ]
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "locale": "en_GD",
+    "language": "en",
+    "currency": "XCD",
+    "phoneCode": "+1-473",
+    "timezones": [
+      {"name": "America/Grenada"}
+    ]
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "locale": "fr_GP",
+    "language": "fr",
+    "currency": "EUR",
+    "phoneCode": "+590",
+    "timezones": [
+      {"name": "America/Guadeloupe"}
+    ]
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "locale": "en_GU",
+    "language": "en",
+    "currency": "USD",
+    "phoneCode": "+1-671",
+    "timezones": [
+      {"name": "Pacific/Guam"}
+    ]
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "locale": "es_GT",
+    "language": "gt",
+    "currency": "GTQ",
+    "phoneCode": "+502",
+    "timezones": [
+      {"name": "America/Guatemala"}
+    ]
+  },
+  {
+    "code": "GG",
+    "name": "Guernsey",
+    "locale": "en_GG",
+    "language": "en",
+    "currency": "GBP",
+    "phoneCode": "+44-1481",
+    "timezones": [
+      {"name": "Europe/Guernsey"}
+    ]
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "locale": "fr_GN",
+    "language": "gn",
+    "currency": "GNF",
+    "phoneCode": "+224",
+    "timezones": [
+      {"name": "Africa/Abidjan"},
+      {"name": "Africa/Conakry"}
+    ]
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "locale": "pt_GW",
+    "language": "pt",
+    "currency": "XOF",
+    "phoneCode": "+245",
+    "timezones": [
+      {"name": "Africa/Bissau"}
+    ]
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "locale": "en_GY",
+    "language": "en",
+    "currency": "GYD",
+    "phoneCode": "+233",
+    "timezones": [
+      {"name": "America/Cayenne"},
+      {"name": "America/Guyana"}
     ]
   },
   {
@@ -946,70 +1196,6 @@
     "phoneCode": "+82",
     "timezones": [
       {"name": "Asia/Seoul"}
-    ]
-  },
-  {
-    "name": "Germany",
-    "locale": "de_DE",
-    "language": "de",
-    "currency": "EUR",
-    "phoneCode": "+49",
-    "timezones": [
-      {"name": "Europe/Berlin"},
-      {"name": "Europe/Busingen"},
-      {"name": "Europe/Zurich"}
-    ]
-  },
-  {
-    "name": "Georgia",
-    "locale": "ka_GE",
-    "language": "ge",
-    "currency": "GEL",
-    "phoneCode": "+995",
-    "timezones": [
-      {"name": "Asia/Tbilisi"}
-    ]
-  },
-  {
-    "name": "Greece",
-    "locale": "el_GR",
-    "language": "gr",
-    "currency": "EUR",
-    "phoneCode": "+30",
-    "timezones": [
-      {"name": "Europe/Athens"}
-    ]
-  },
-  {
-    "name": "Ghana",
-    "locale": "ak_GH",
-    "language": "gh",
-    "currency": "GHS",
-    "phoneCode": "+233",
-    "timezones": [
-      {"name": "Africa/Abidjan"},
-      {"name": "Africa/Accra"}
-    ]
-  },
-  {
-    "name": "Guinea",
-    "locale": "fr_GN",
-    "language": "gn",
-    "currency": "GNF",
-    "phoneCode": "+224",
-    "timezones": [
-      {"name": "Africa/Abidjan"},
-      {"name": "Africa/Conakry"}
-    ]
-  },
-  {
-    "name": "Guatemala",
-    "locale": "es_GT",
-    "language": "gt",
-    "currency": "GTQ",
-    "phoneCode": "+502",
-    "timezones": [
-      {"name": "America/Guatemala"}
     ]
   },
   {
